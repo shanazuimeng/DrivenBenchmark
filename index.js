@@ -17,6 +17,27 @@ const GPUTarget = [
     { url: 'https://www.videocardbenchmark.net/low_end_gpus.html' },
 ]
 
+
+const REMOVE = [
+    /AMD /,
+    /Intel /,
+    /CPU /,
+    /@.*/,
+    /Core /,
+    /APU/,
+    // /Xeon /,
+    /Athlon /,
+    /Phenom /,
+    /Dual-Core/,
+    // /Celeron /,
+]
+
+const REPLACE = [
+    { s: "FX", n: "FX(tm)" },
+    { s: "Xeon", n: "Xeon(R) CPU" },
+    { s: "Pentium", n: "Pentium(R) CPU" },
+]
+
 function DownloadBenchmark(url, cache) {
     return new Promise((resolve, reject) => {
         Request({
@@ -39,8 +60,14 @@ function DownloadBenchmark(url, cache) {
             }
             for (let i = 0; i < mark.length; i++) {
                 // console.log(mark[i].parent.children[index].children[0].data)
+                let origin = mark[i].parent.children[index].children[0].data;
+                for (let idx in REMOVE) {
+                    origin = origin.replace(REMOVE[idx], "");
+                }
+
+
                 cache.push({
-                        name: mark[i].parent.children[index].children[0].data,
+                        name: origin,
                         count: (mark[i].children[0].data).replace(',', '')
                     })
                     // return
@@ -62,10 +89,12 @@ async function total(Targets, FileName, cache) {
         await DownloadBenchmark(Targets[i].url, cache);
     }
     let context = "";
-    for (let i = 0; i < cache.length; i++)
+    for (let i = 0; i < cache.length; i++) {
         context += '\"' + cache[i].name + '\",' + cache[i].count + '\r\n'
+    }
+
     fs.writeFile(path.resolve(__dirname, FileName + ".csv"), context, "utf-8", () => {});
 }
 
 total(CPUTarget, 'CPUPassMark');
-total(GPUTarget, 'GPUPassMark');
+// total(GPUTarget, 'GPUPassMark');
