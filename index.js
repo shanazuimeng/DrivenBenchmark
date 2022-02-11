@@ -19,26 +19,43 @@ const GPUTarget = [
 
 
 const REMOVE = [
+    /HAMMERHEAD.*/,
     /AMD /,
     /Intel /,
+    /Intel/,
     /CPU /,
     /@.*/,
+    /Dual-Core/,
+    /Triple-Core/,
+    /Quad-Core/,
     /Core /,
     /APU/,
-    // /Xeon /,
-    /Athlon /,
+    /\(R\) /,
+
+    /Athlon/,
     /Phenom /,
-    /Dual-Core/,
-    // /Celeron /,
+
+    // /GeForce /,
+    /Radeon /,
+    /NVDIA /,
+    /ATI /,
+    // /GTX /,
+    // /RTX /,
+    // /Quadro /,
+
+    // /Celeron/,
+    // /^[0-9]\.[0-9]+GHz/
 ]
 
 const REPLACE = [
     { s: "FX", n: "FX(tm)" },
     { s: "Xeon", n: "Xeon(R) CPU" },
     { s: "Pentium", n: "Pentium(R) CPU" },
+    { s: "Celeron", n: "Celeron(R) CPU" }
 ]
 
-function DownloadBenchmark(url, cache) {
+
+function DownloadBenchmark(url, cache, option) {
     return new Promise((resolve, reject) => {
         Request({
             proxy: 'http://127.0.0.1:10809',
@@ -58,11 +75,15 @@ function DownloadBenchmark(url, cache) {
             } else {
                 index = 1;
             }
+
             for (let i = 0; i < mark.length; i++) {
-                // console.log(mark[i].parent.children[index].children[0].data)
                 let origin = mark[i].parent.children[index].children[0].data;
+
                 for (let idx in REMOVE) {
                     origin = origin.replace(REMOVE[idx], "");
+                }
+                for (let idx in REPLACE) {
+                    origin = origin.replace(REPLACE[idx].s, REPLACE[idx].n);
                 }
 
 
@@ -96,5 +117,6 @@ async function total(Targets, FileName, cache) {
     fs.writeFile(path.resolve(__dirname, FileName + ".csv"), context, "utf-8", () => {});
 }
 
+// total(CPUTarget, 'CPUPassMark');
 total(CPUTarget, 'CPUPassMark');
-// total(GPUTarget, 'GPUPassMark');
+total(GPUTarget, 'GPUPassMark');
