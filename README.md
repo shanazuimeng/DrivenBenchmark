@@ -1,7 +1,7 @@
 # HardwareBenchmark
 
 
-## version 0.0.4 2022年2月14日 下午
+## version 0.0.5 2022年2月14日 下午
 ### Added：
 - 添加BANK类型
 
