@@ -1,5 +1,9 @@
 # HardwareBenchmark
 
+## version 0.0.4 2022年2月14日
+### Added：
+- 调增测试脚本，输出类型匹配率和数量匹配率
+- 增加一份测试数据
 
 ## version 0.0.3 2022年2月11日
 ### Added:

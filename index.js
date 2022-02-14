@@ -30,7 +30,7 @@ const REMOVE = [
     /Quad-Core/,
     /Core /,
     /APU/,
-    /\(R\) /,
+    // /\(R\) /,
 
     /Athlon/,
     /Phenom /,
@@ -51,7 +51,8 @@ const REPLACE = [
     { s: "FX", n: "FX(tm)" },
     { s: "Xeon", n: "Xeon(R) CPU" },
     { s: "Pentium", n: "Pentium(R) CPU" },
-    { s: "Celeron", n: "Celeron(R) CPU" }
+    { s: "Celeron", n: "Celeron(R) CPU" },
+    { s: "Intel HD", n: "Intel HD graphics" }
 ]
 
 
@@ -79,12 +80,14 @@ function DownloadBenchmark(url, cache, option) {
             for (let i = 0; i < mark.length; i++) {
                 let origin = mark[i].parent.children[index].children[0].data;
 
-                for (let idx in REMOVE) {
-                    origin = origin.replace(REMOVE[idx], "");
-                }
                 for (let idx in REPLACE) {
                     origin = origin.replace(REPLACE[idx].s, REPLACE[idx].n);
                 }
+
+                for (let idx in REMOVE) {
+                    origin = origin.replace(REMOVE[idx], "");
+                }
+
 
 
                 cache.push({

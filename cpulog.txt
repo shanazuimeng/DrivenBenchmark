@@ -1,0 +1,1285 @@
+CPU,Num
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz,68194
+Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz,50728
+Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz,16323
+Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz,16116
+Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz,12381
+Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz,12287
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,12020
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz,11573
+Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz,10816
+Intel(R) Xeon(R) CPU E3-1231 v3 @ 3.40GHz,10227
+Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz,9376
+Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz,8895
+Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz,8850
+Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz,7068
+AMD Ryzen 5 3600 6-Core Processor              ,6672
+Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz,6431
+Intel(R) Core(TM) i5-9600KF CPU @ 3.70GHz,5880
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz,5600
+Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz,5595
+11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz,5368
+AMD Ryzen 5 2600 Six-Core Processor            ,5015
+Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz,4846
+Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,4740
+Intel(R) Core(TM) i5-10600KF CPU @ 4.10GHz,4502
+Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz,4376
+Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,4316
+Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz,3914
+Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz,3852
+Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,3816
+Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz,3626
+Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,3537
+Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz,3363
+Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz,3177
+11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz,3013
+Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,2921
+Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz,2884
+11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz,2644
+Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz,2537
+11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz,2472
+AMD Ryzen 5 3500X 6-Core Processor             ,2418
+Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz,2327
+Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz,2242
+AMD Ryzen 5 5600X 6-Core Processor             ,2238
+Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz,2221
+Intel(R) Pentium(R) CPU G4560 @ 3.50GHz,2112
+Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz,2018
+Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz,1868
+Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,1857
+Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz,1795
+Intel(R) Pentium(R) CPU G3260 @ 3.30GHz,1785
+AMD Athlon(tm) X4 860K Quad Core Processor     ,1781
+Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz,1712
+Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz,1642
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz,1601
+Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz,1542
+Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz,1497
+AMD Ryzen 7 5800H with Radeon Graphics         ,1465
+Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz,1460
+AMD Athlon(tm) X4 740 Quad Core Processor      ,1403
+Intel Pentium III Xeon 处理器,1355
+Intel(R) Core(TM) i5-9500F CPU @ 3.00GHz,1328
+Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz,1313
+Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz,1241
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz,1215
+Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz,1145
+Intel(R) Pentium(R) CPU G4400 @ 3.30GHz,1132
+Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz,1129
+11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz,1123
+AMD Ryzen 7 4800H with Radeon Graphics         ,1100
+Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz,1076
+AMD Athlon(tm) X4 840 Quad Core Processor      ,1070
+Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz,1065
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz,1041
+AMD Athlon(tm) X4 760K Quad Core Processor     ,1031
+Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz,1027
+AMD Ryzen 5 1600 Six-Core Processor            ,1025
+Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz,1019
+AMD Ryzen 5 1500X Quad-Core Processor          ,1009
+Intel(R) Celeron(R) CPU G1840 @ 2.80GHz,1007
+Intel(R) Core(TM) i5-4440 CPU @ 3.10GHz,993
+Intel(R) Xeon(R) CPU E5-2450 0 @ 2.10GHz,966
+AMD Ryzen 5 3600X 6-Core Processor             ,965
+11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz,945
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,942
+Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz,883
+AMD Ryzen 5 2600X Six-Core Processor           ,870
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz,836
+Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz,835
+AMD Ryzen 7 3700X 8-Core Processor             ,821
+Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,819
+Intel(R) Core(TM) i5-4460S CPU @ 2.90GHz,810
+Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz,748
+Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz,736
+11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz,734
+Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz,725
+Intel(R) Core(TM) i7-9700KF CPU @ 3.60GHz,724
+Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz,719
+Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz,717
+Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz,715
+Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz,688
+Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz,679
+Intel(R) Xeon(R) CPU E5-2689 0 @ 2.60GHz,678
+AMD Athlon(tm) II X4 641 Quad-Core Processor,660
+Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz,656
+AMD Ryzen 5 4600H with Radeon Graphics         ,640
+Intel(R) Core(TM) i9-9900KF CPU @ 3.60GHz,629
+Intel(R) Xeon(R) CPU           L5640  @ 2.27GHz,627
+AMD Athlon(tm) II X4 640 Processor,625
+Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,624
+11th Gen Intel(R) Core(TM) i5-11600KF @ 3.90GHz,615
+Intel(R) Core(TM) i5-6400T CPU @ 2.20GHz,613
+Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz,600
+Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz,598
+"AMD A8-7650K Radeon R7, 10 Compute Cores 4C+6G ",597
+Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz,593
+Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,580
+Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,578
+Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz,565
+AMD Athlon(tm) X4 730 Quad Core Processor      ,565
+11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz,560
+Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz,539
+Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz,531
+Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz,531
+AMD Ryzen 3 2200G with Radeon Vega Graphics    ,530
+Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz,527
+AMD FX(tm)-8300 Eight-Core Processor           ,512
+Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz,505
+AMD Ryzen 7 1700 Eight-Core Processor          ,505
+Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz,500
+AMD Athlon(tm) II X2 250 Processor,499
+Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50GHz,497
+Intel(R) Core(TM) i7-10700KF CPU @ 3.80GHz,494
+Intel(R) Core(TM) i5-4570S CPU @ 2.90GHz,491
+"AMD A8-7500 Radeon R7, 10 Compute Cores 4C+6G  ",491
+Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz,484
+AMD Athlon(tm) X4 830 Quad Core Processor      ,481
+12th Gen Intel(R) Core(TM) i5-12490F,477
+AMD Ryzen 5 1400 Quad-Core Processor           ,476
+11th Gen Intel(R) Core(TM) i5-11500 @ 2.70GHz,472
+Intel(R) Core(TM) i5-2320 CPU @ 3.00GHz,468
+Intel(R) Celeron(R) CPU G3930 @ 2.90GHz,462
+Intel(R) Xeon(R) CPU           E5645  @ 2.40GHz,459
+Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz,454
+Intel(R) Core(TM) i5-4690 CPU @ 3.50GHz,446
+Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz,444
+Intel(R) Xeon(R) CPU E5-2650 v2 @ 2.60GHz,442
+Intel(R) Core(TM) i7-10875H CPU @ 2.30GHz,431
+AMD A8-5600K APU with Radeon(tm) HD Graphics   ,424
+AMD Ryzen 7 2700 Eight-Core Processor          ,424
+Intel(R) Core(TM) i5-3450 CPU @ 3.10GHz,420
+Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz,420
+Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,408
+Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz,404
+Intel(R) Xeon(R) CPU E5-2630 0 @ 2.30GHz,396
+Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,390
+AMD Ryzen 7 5800X 8-Core Processor             ,385
+AMD Athlon(tm) II X4 631 Quad-Core Processor,381
+AMD Ryzen 5 5600H with Radeon Graphics         ,373
+Intel(R) Core(TM) i7-2600 CPU @ 3.40GHz,371
+Intel(R) Celeron(R) CPU G3900 @ 2.80GHz,367
+Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz,365
+Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz,359
+Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz,335
+Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz,334
+12th Gen Intel(R) Core(TM) i5-12600KF,330
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  ,329
+Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz,326
+AMD Ryzen 5 5600G with Radeon Graphics         ,317
+Intel(R) Celeron(R) CPU G1620 @ 2.70GHz,316
+Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,316
+Intel(R) Core(TM) i5-4200H CPU @ 2.80GHz,307
+AMD Ryzen 7 2700X Eight-Core Processor         ,301
+Intel(R) Core(TM) i9-10900F CPU @ 2.80GHz,297
+Intel(R) Core(TM) i5-4670T CPU @ 2.30GHz,289
+Intel(R) Core(TM) i5-2300 CPU @ 2.80GHz,288
+Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz,285
+AMD Phenom(tm) II X4 955 Processor,284
+Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz,283
+AMD Ryzen 5 2400G with Radeon Vega Graphics    ,279
+Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz,278
+Intel(R) Pentium(R) CPU G2020 @ 2.90GHz,278
+Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz,276
+AMD Ryzen 5 1600X Six-Core Processor           ,274
+Intel(R) Core(TM) i3-2130 CPU @ 3.40GHz,274
+Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz,269
+AMD FX(tm)-6300 Six-Core Processor             ,265
+12th Gen Intel(R) Core(TM) i7-12700KF,258
+Intel(R) Core(TM) i7 CPU         870  @ 2.93GHz,257
+Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz,253
+AMD Athlon(tm) X4 750K Quad Core Processor     ,246
+Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz,239
+Intel(R) Xeon(R) CPU E5-2660 v2 @ 2.20GHz,238
+Intel(R) Core(TM) i5-3350P CPU @ 3.10GHz,234
+Intel(R) Xeon(R) CPU E5-2665 0 @ 2.40GHz,234
+Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz,232
+Intel(R) Core(TM) i7 CPU         860  @ 2.80GHz,232
+AMD Ryzen 3 1200 Quad-Core Processor           ,232
+Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz,231
+Intel(R) Pentium(R) CPU G645 @ 2.90GHz,231
+Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz,230
+AMD Athlon(tm) II X2 245 Processor,230
+Intel(R) Core(TM) i3-8350K CPU @ 4.00GHz,227
+Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz,226
+11th Gen Intel(R) Core(TM) i5-11260H @ 2.60GHz,224
+Intel(R) Xeon(R) CPU E5-2680 0 @ 2.70GHz,224
+AMD A10-5800K APU with Radeon(tm) HD Graphics  ,219
+Intel(R) Xeon(R) CPU E5-2630 v2 @ 2.60GHz,217
+Intel(R) Xeon(R) CPU           X5670  @ 2.93GHz,215
+AMD Athlon(tm) X4 870K Quad Core Processor     ,215
+Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz,214
+Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz,210
+Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz,210
+Intel(R) Core(TM) i3-7350K CPU @ 4.20GHz,209
+Intel(R) Core(TM) i5-6600 CPU @ 3.30GHz,208
+AMD Athlon(tm) X4 750 Quad Core Processor      ,207
+Intel(R) Xeon(R) CPU E5-2670 v2 @ 2.50GHz,207
+Intel(R) Xeon(R) CPU           X5570  @ 2.93GHz,206
+Intel(R) Celeron(R) G4900 CPU @ 3.10GHz,206
+Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz,206
+Intel(R) Xeon(R) CPU           X5660  @ 2.80GHz,204
+Intel(R) Core(TM) i5-9500 CPU @ 3.00GHz,203
+AMD Ryzen 5 5500U with Radeon Graphics         ,202
+Intel(R) Xeon(R) CPU E3-1240 v3 @ 3.40GHz,197
+11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz,195
+AMD Athlon(tm) II X2 240 Processor,194
+11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz,190
+Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz,189
+Intel(R) Celeron(R) CPU G1820 @ 2.70GHz,186
+12th Gen Intel(R) Core(TM) i5-12400F,181
+Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz,181
+AMD Ryzen 5 3400G with Radeon Vega Graphics    ,177
+Intel(R) Core(TM) i5 CPU         760  @ 2.80GHz,177
+Intel(R) Core(TM) i5-4210H CPU @ 2.90GHz,176
+Intel(R) Pentium(R) CPU G620 @ 2.60GHz,176
+AMD Ryzen 5 4500U with Radeon Graphics         ,175
+Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz,174
+Intel(R) Celeron(R) G5905 CPU @ 3.50GHz,173
+Intel(R) Xeon(R) CPU E5-2420 0 @ 1.90GHz,173
+Intel(R) Core(TM) i5-2310 CPU @ 2.90GHz,170
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  ,166
+12th Gen Intel(R) Core(TM) i7-12700F,166
+Intel(R) Xeon(R) CPU E5-2620 0 @ 2.00GHz,162
+AMD FX(tm)-4300 Quad-Core Processor            ,161
+Intel(R) Xeon(R) CPU           X5675  @ 3.07GHz,153
+Intel(R) Xeon(R) CPU E3-1220 v3 @ 3.10GHz,153
+AMD Athlon(tm) II X2 260 Processor,151
+Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz,150
+Intel(R) Celeron(R) CPU G1610 @ 2.60GHz,149
+AMD Ryzen 7 5700U with Radeon Graphics         ,147
+Intel(R) Xeon(R) CPU           E5620  @ 2.40GHz,144
+Intel(R) Core(TM) i3-6098P CPU @ 3.60GHz,143
+"AMD A8-9600 RADEON R7, 10 COMPUTE CORES 4C+6G  ",142
+11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz,141
+Intel(R) Core(TM) i5-2380P CPU @ 3.10GHz,139
+Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz,138
+AMD A8-6600K APU with Radeon(tm) HD Graphics   ,137
+AMD A4-6300 APU with Radeon(tm) HD Graphics    ,137
+Intel(R) Xeon(R) CPU E5-1620 0 @ 3.60GHz,137
+Intel(R) Pentium(R) CPU G4600 @ 3.60GHz,134
+AMD Ryzen 5 4600U with Radeon Graphics         ,134
+Intel(R) Core(TM) i9-10900K CPU @ 3.70GHz,133
+Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz,130
+AMD A8-5500 APU with Radeon(tm) HD Graphics    ,130
+AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  ,129
+Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz,127
+Intel(R) Pentium(R) CPU G630 @ 2.70GHz,124
+AMD Ryzen 7 4800U with Radeon Graphics         ,121
+Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz,120
+AMD Ryzen 9 5900HX with Radeon Graphics        ,120
+Intel(R) Celeron(R) CPU G550 @ 2.60GHz,118
+Intel(R) Xeon(R) CPU E5-1620 v2 @ 3.70GHz,115
+Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz,115
+AMD Ryzen 7 4700U with Radeon Graphics         ,114
+Intel(R) Xeon(R) CPU E5-2673 v3 @ 2.40GHz,114
+Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz,113
+Intel(R) Celeron(R) G4930 CPU @ 3.20GHz,113
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz,112
+Intel(R) Core(TM) i7-4510U CPU @ 2.00GHz,112
+Intel(R) Xeon(R) CPU E31220 @ 3.10GHz,111
+Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz,111
+Intel(R) Xeon(R) CPU E5-2651 v2 @ 1.80GHz,111
+AMD Ryzen 7 3800X 8-Core Processor             ,110
+11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz,108
+Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz,106
+AMD Ryzen 3 3200G with Radeon Vega Graphics    ,106
+AMD Athlon(tm) II X4 630 Processor,106
+Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz,106
+AMD Ryzen 3 3100 4-Core Processor              ,106
+Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz,105
+Intel(R) Xeon(R) CPU E5-2430 0 @ 2.20GHz,104
+Intel(R) Pentium(R) CPU G640 @ 2.80GHz,104
+AMD Athlon(tm) II X2 255 Processor,104
+Intel(R) Xeon(R) CPU           E5649  @ 2.53GHz,103
+AMD Ryzen 7 1700X Eight-Core Processor         ,103
+Intel(R) Core(TM) i5-9300HF CPU @ 2.40GHz,101
+AMD Athlon 200GE with Radeon Vega Graphics     ,100
+Intel(R) Core(TM) I7 7700 CPU @ 3.60GHz,99
+Intel(R) Core(TM) i3 CPU         530  @ 2.93GHz,97
+AMD Athlon(tm) II X2 270 Processor,96
+Intel(R) Xeon(R) CPU E5-1650 0 @ 3.20GHz,96
+Intel(R) Core(TM) i5-3550 CPU @ 3.30GHz,95
+Intel(R) Core(TM) i5-4430S CPU @ 2.70GHz,95
+Intel(R) Xeon(R) CPU E5-2620 v2 @ 2.10GHz,94
+AMD Athlon(tm) II X4 645 Processor,92
+Intel(R) Xeon(R) CPU E5-2470 v2 @ 2.40GHz,89
+Intel(R) Core(TM) i7-4710HQ CPU @ 2.50GHz,88
+Intel(R) Xeon(R) CPU           E5540  @ 2.53GHz,88
+Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz,88
+Intel(R) Xeon(R) CPU E3-1271 v3 @ 3.60GHz,87
+Intel(R) Core(TM) i3-3210 CPU @ 3.20GHz,87
+AMD Ryzen 9 5900X 12-Core Processor            ,87
+Intel(R) Xeon(R) CPU           E5640  @ 2.67GHz,87
+Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,87
+AMD Ryzen 9 3900X 12-Core Processor            ,85
+Intel(R) Celeron(R) CPU G530 @ 2.40GHz,84
+Intel(R) Core(TM) i5-3337U CPU @ 1.80GHz,83
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz,83
+Intel(R) Xeon(R) CPU E3-1220 V2 @ 3.10GHz,83
+Intel(R) Xeon(R) CPU E5-2450L 0 @ 1.80GHz,82
+Intel(R) Xeon(R) CPU E3-1241 v3 @ 3.50GHz,82
+Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz,81
+Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz,81
+Intel(R) Pentium(R) CPU G2010 @ 2.80GHz,79
+Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz,79
+Intel(R) Xeon(R) CPU           X5550  @ 2.67GHz,79
+Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz,77
+Intel(R) Core(TM) i5-5350U CPU @ 1.80GHz,77
+Intel(R) Celeron(R) CPU G1630 @ 2.80GHz,77
+Intel(R) Xeon(R) CPU E5-2696 v2 @ 2.50GHz,76
+Intel(R) Core(TM) i3-4130T CPU @ 2.90GHz,76
+Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz,75
+AMD Athlon(tm) X4 850 Quad Core Processor      ,75
+Pentium(R) Dual-Core  CPU      E6500  @ 2.93GHz,74
+"AMD A10-7800 Radeon R7, 12 Compute Cores 4C+8G ",74
+"AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G  ",74
+Intel(R) Core(TM) i9-10900 CPU @ 2.80GHz,73
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  ,73
+AMD Phenom(tm) II X4 945 Processor,72
+12th Gen Intel(R) Core(TM) i7-12700K,71
+Intel(R) Core(TM) i7-3770S CPU @ 3.10GHz,70
+AMD Ryzen 7 5800 8-Core Processor              ,69
+Intel(R) Xeon(R) CPU E5-2630L 0 @ 2.00GHz,69
+Intel(R) Core(TM) i5-2500S CPU @ 2.70GHz,68
+11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz,67
+Genuine Intel(R) CPU 0000 @ 3.00GHz,67
+AMD Athlon(tm) II X4 635 Processor,67
+Intel(R) Xeon(R) CPU           X5560  @ 2.80GHz,67
+Intel(R) Xeon(R) CPU E5-4620 0 @ 2.20GHz,66
+Intel(R) Core(TM) i9-10900KF CPU @ 3.70GHz,66
+Intel(R) Pentium(R) CPU G3258 @ 3.20GHz,66
+Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz,66
+Intel(R) Core(TM) i7 CPU         950  @ 3.07GHz,66
+Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz,65
+Intel(R) Core(TM) i5-5250U CPU @ 1.60GHz,65
+AMD Athlon(tm) X4 855 Quad Core Processor      ,65
+Intel(R) Core(TM) i5-4258U CPU @ 2.40GHz,63
+Intel(R) Xeon(R) CPU E5-2420 v2 @ 2.20GHz,63
+AMD A4-5300 APU with Radeon(tm) HD Graphics    ,62
+Intel(R) Core(TM) I7 8700 CPU @ 3.30GHz,62
+Intel(R) Core(TM) i7-6700T CPU @ 2.80GHz,61
+"AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G",61
+Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz,60
+Pentium(R) Dual-Core  CPU      E5700  @ 3.00GHz,60
+Intel(R) Core(TM)2 Quad CPU    Q8300  @ 2.50GHz,60
+Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz,59
+AMD FX(tm)-8350 Eight-Core Processor           ,59
+11th Gen Intel(R) Core(TM) i9-11900F @ 2.50GHz,59
+Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,59
+AMD Athlon(tm) II X4 638 Quad-Core Processor,59
+AMD A10-5700 APU with Radeon(tm) HD Graphics   ,58
+Pentium(R) Dual-Core  CPU      E6700  @ 3.20GHz,58
+AMD Athlon(tm) II X3 445 Processor,58
+AMD Ryzen 5 5600U with Radeon Graphics         ,58
+Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz,58
+Intel(R) Core(TM) I7 9700 CPU @ 3.0GHz,58
+AMD A10-6800K APU with Radeon(tm) HD Graphics  ,58
+Genuine Intel(R) CPU 0000 @ 2.60GHz,58
+Intel(R) Celeron(R) CPU G540 @ 2.50GHz,57
+11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz,57
+Intel(R) Xeon(R) CPU E31230 @ 3.20GHz,57
+Intel(R) Core(TM) i5-7400T CPU @ 2.40GHz,56
+Intel(R) Xeon(R) CPU E3-1270 V2 @ 3.50GHz,56
+Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz,56
+Intel(R) Xeon(R) CPU E5-2643 0 @ 3.30GHz,55
+Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz,55
+AMD Ryzen 9 5950X 16-Core Processor            ,54
+AMD Sempron(tm) X2 180 Processor,54
+Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz,54
+Not Available,54
+Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz,53
+Intel(R) Core(TM) i5-11500 CPU @ 2.8GHz,53
+Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz,53
+AMD Athlon(tm) II X4 651 Quad-Core Processor,53
+12th Gen Intel(R) Core(TM) i5-12600K,53
+Intel(R) Xeon(R) CPU E5-4620 v3 @ 2.00GHz,53
+AMD Ryzen 9 4900H with Radeon Graphics         ,53
+AMD Athlon(tm) II X2 280 Processor,52
+Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz,52
+Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz,52
+Intel(R) Core(TM) i7-2670QM CPU @ 2.20GHz,52
+Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz,52
+Intel(R) Xeon(R) CPU E5-2680 v3 @ 2.50GHz,52
+"AMD A6-7400K Radeon R5, 6 Compute Cores 2C+4G  ",52
+Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz,51
+Intel(R) Xeon(R) CPU           X3440  @ 2.53GHz,51
+Intel(R) Core(TM) i5-3317U CPU @ 1.70GHz,51
+Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz,51
+AMD A6-3670 APU with Radeon(tm) HD Graphics,51
+Genuine Intel(R) CPU 0000 @ 2.40GHz,50
+AMD FX(tm)-8320 Eight-Core Processor           ,50
+11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz,50
+Intel(R) Core(TM) i3 CPU       M 380  @ 2.53GHz,49
+Intel(R) Xeon(R) CPU D-1581 @ 1.80GHz,49
+Pentium(R) Dual-Core  CPU      E6600  @ 3.06GHz,48
+Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz,48
+Intel(R) Pentium(R) CPU G840 @ 2.80GHz,48
+11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz,47
+AMD FX(tm)-6100 Six-Core Processor             ,47
+Intel(R) Pentium(R) CPU G860 @ 3.00GHz,47
+Intel(R) Core(TM) i5-2410M CPU @ 2.30GHz,47
+Intel(R) Xeon(R) CPU E5-4640 0 @ 2.40GHz,47
+Intel(R) Core(TM) i5-5257U CPU @ 2.70GHz,47
+"AMD A10-9700 RADEON R7, 10 COMPUTE CORES 4C+6G ",46
+AMD A8-5550M APU with Radeon(tm) HD Graphics   ,46
+AMD A8-6500 APU with Radeon(tm) HD Graphics    ,46
+AMD Ryzen 7 5800U with Radeon Graphics         ,46
+Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz,46
+Intel(R) Core(TM) i3 CPU         550  @ 3.20GHz,45
+Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz,45
+Intel(R) Xeon(R) CPU E5-2637 v2 @ 3.50GHz,45
+Intel(R) Xeon(R) CPU           E5420  @ 2.50GHz,45
+Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz,45
+Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,44
+Intel(R) Core(TM) i5-4440S CPU @ 2.80GHz,44
+Intel(R) Core(TM) i7 CPU         930  @ 2.80GHz,44
+Intel(R) Core(TM) i3-6006U CPU @ 2.00GHz,44
+11th Gen Intel(R) Core(TM) i9-11900K @ 3.50GHz,43
+AMD Athlon(tm) II X2 220 Processor,43
+Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz,43
+Intel(R) Core(TM) i5-10400T CPU @ 2.00GHz,43
+Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz,43
+"AMD A10-7860K Radeon R7, 12 Compute Cores 4C+8G",43
+Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz,42
+Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz,42
+AMD Athlon(tm) II X3 450 Processor,42
+Intel(R) Core(TM) I7 12700K CPU @ 4.60GHz,42
+Intel Pentium II 处理器,42
+Intel(R) Xeon(R) CPU E3-1240L v5 @ 2.10GHz,41
+Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz,41
+Intel(R) Core(TM) i9-9980HK CPU @ 2.40GHz,40
+Intel(R) Xeon(R) CPU           L5420  @ 2.50GHz,40
+Intel(R) Core(TM) i5-2550K CPU @ 3.40GHz,40
+AMD A6-3620 APU with Radeon(tm) HD Graphics,40
+Intel(R) Xeon(R) CPU E5-2667 v2 @ 3.30GHz,40
+Intel(R) Core(TM) i7-3520M CPU @ 2.90GHz,39
+Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz,38
+Intel(R) Core(TM) i5-6600T CPU @ 2.70GHz,38
+Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz,38
+Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz,38
+Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz,37
+Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz,37
+"AMD A8 PRO-7600B R7, 10 Compute Cores 4C+6G    ",37
+Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz,36
+12th Gen Intel(R) Core(TM) i9-12900KF,36
+Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz,36
+Intel(R) Core(TM) i7-3740QM CPU @ 2.70GHz,36
+Intel(R) Core(TM) i7-6820HQ CPU @ 2.70GHz,36
+AMD A8-3870 APU with Radeon(tm) HD Graphics,36
+Intel(R) Celeron(R) CPU G3930T @ 2.70GHz,36
+Intel(R) Xeon(R) CPU E5-2643 v2 @ 3.50GHz,36
+AMD A8-3850 APU with Radeon(tm) HD Graphics,35
+AMD A6-3650 APU with Radeon(tm) HD Graphics,35
+Pentium(R) Dual-Core  CPU      E5400  @ 2.70GHz,35
+Intel(R) Core(TM) i5-4570R CPU @ 2.70GHz,35
+Genuine Intel(R) CPU 0000 @ 2.20GHz,35
+Intel(R) Core(TM) i7-6820HK CPU @ 2.70GHz,35
+AMD A8-4500M APU with Radeon(tm) HD Graphics   ,34
+AMD Ryzen 3 3250U with Radeon Graphics         ,34
+AMD Athlon(tm) II X2 215 Processor,34
+Intel(R) Core(TM) i5-9400T CPU @ 1.80GHz,34
+Intel(R) Core(TM) i5-4310M CPU @ 2.70GHz,33
+Intel(R) Core(TM) i5 CPU       M 520  @ 2.40GHz,33
+AMD A6-6400K APU with Radeon(tm) HD Graphics   ,33
+Intel(R) Core(TM) I7 10700k CPU @ 3.30GHz,33
+Intel(R) Pentium(R) CPU 4415U @ 2.30GHz,33
+Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz JSH,32
+Intel(R) Xeon(R) CPU           X3430  @ 2.40GHz,32
+Intel(R) Core(TM) i5-3570S CPU @ 3.10GHz,32
+Intel(R) Xeon(R) CPU E5-2650L v2 @ 1.70GHz,32
+AMD Athlon(tm) II X4 620 Processor,32
+AMD A10-6700 APU with Radeon(tm) HD Graphics   ,32
+Intel(R) Core(TM) i5 CPU       M 480  @ 2.67GHz,32
+Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz,32
+Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz,31
+Intel(R) Xeon(R) CPU           E5410  @ 2.33GHz,31
+Intel(R) Core(TM) i5-3330S CPU @ 2.70GHz,31
+Intel(R) Core(TM) i7-9750HF CPU @ 2.60GHz,30
+Intel(R) Pentium(R) Gold G5500 CPU @ 3.80GHz,30
+Intel(R) Core(TM) i7-4712MQ CPU @ 2.30GHz,30
+Intel(R) Core(TM) i7 8700 CPU @,30
+Intel(R) Core(TM) i7-8086K CPU @ 4.00GHz,30
+Intel(R) Core(TM) i7-2760QM CPU @ 2.40GHz,30
+Intel(R) Core(TM) i3-3120M CPU @ 2.50GHz,30
+Intel(R) Xeon(R) CPU           E5630  @ 2.53GHz,29
+Intel(R) Pentium(R) CPU G4400T @ 2.90GHz,29
+AMD Ryzen 7 5700G with Radeon Graphics         ,29
+Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz,29
+Intel(R) Xeon(R) CPU E3-1240 V2 @ 3.40GHz,29
+AMD Athlon 3000G with Radeon Vega Graphics     ,29
+AMD Ryzen 7 PRO 4750U with Radeon Graphics,29
+Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz,29
+AMD A9-9820 Processor,28
+Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz,28
+Intel(R) Core(TM) i5-4460T CPU @ 1.90GHz,28
+Intel(R) Core(TM) i7-10710U CPU @ 1.10GHz,28
+AMD Ryzen 9 4900HS with Radeon Graphics         ,28
+Intel(R) Pentium(R) CPU G3220T @ 2.60GHz,28
+Intel(R) Core(TM) i5-2500K CPU @ 3.30GHz,28
+AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  ,28
+AMD Processor model unknown,28
+AMD Sempron(tm) X2 198 Dual-Core Processor,28
+Intel(R) Xeon(R) CPU E5-4650L 0 @ 2.60GHz,28
+12th Gen Intel(R) Core(TM) i7-12700,27
+Intel(R) Celeron(R) CPU        E3400  @ 2.60GHz,27
+Intel(R) Core(TM) i5-4670S CPU @ 3.10GHz,27
+Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz,27
+Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz,27
+Intel(R) Core(TM) m3-7Y30 CPU @ 1.00GHz,27
+Intel(R) Core(TM) i7-7820HK CPU @ 2.90GHz,27
+AMD Sempron(tm) X2 190 Processor,27
+Intel(R) Xeon(R) CPU E5-2640 v2 @ 2.00GHz,26
+Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz,26
+Intel(R) Xeon(R) CPU E31240 @ 3.30GHz,26
+Intel(R) Core(TM)2 Quad CPU    Q8200  @ 2.33GHz,26
+Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,26
+Intel(R) Xeon(R) CPU           X5680  @ 3.33GHz,26
+Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz,26
+AMD A6-5400K APU with Radeon(tm) HD Graphics   ,25
+11th Gen Intel(R) Core(TM) i9-11900 @ 2.50GHz,25
+Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz,25
+Intel(R) Core(TM) i7-4870HQ CPU @ 2.50GHz,25
+AMD Ryzen 5 3400GE with Radeon Vega Graphics   ,25
+11th Gen Intel(R) Core(TM) i9-11900H @ 2.50GHz,25
+Intel(R) Celeron(R) N5095 @ 2.00GHz,24
+Intel(R) Core(TM) i7-2600S CPU @ 2.80GHz,24
+Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz,24
+Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz,24
+Intel(R) Core(TM) i7-3635QM CPU @ 2.40GHz,24
+Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz,24
+Intel(R) Core(TM) i9-9900 CPU @ 3.10GHz,24
+Intel(R) Core(TM) i3-2370M CPU @ 2.40GHz,24
+Intel(R) Core(TM) I7 10700 CPU @ 2.90GHz,24
+Intel(R) Core(TM) I7 10700 CPU @ 4.10GHz,24
+"AMD A8-7680 Radeon R7, 10 Compute Cores 4C+6G  ",24
+Intel(R) Core(TM) i7-4800MQ CPU @ 2.70GHz,23
+Intel(R) Core(TM) i7-4750HQ CPU @ 2.00GHz,23
+AMD Phenom(tm) II X4 965 Processor,23
+Intel(R) Pentium(R) CPU G4560T @ 2.90GHz,23
+AMD Athlon(tm) II X3 425 Processor,23
+Intel(R) Core(TM) i7-3612QM CPU @ 2.10GHz,23
+Intel(R) Core(TM) i7-6850K CPU @ 3.60GHz,23
+Intel(R) Core(TM) i7-11700F CPU @ 2.50GHz,23
+Intel(R) Core(TM) i5-4300M CPU @ 2.60GHz,22
+Intel(R) Core(TM) i9-10900K CPU @ ,22
+Intel(R) Core(TM)2 Quad CPU    Q9400  @ 2.66GHz,22
+Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz,22
+Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz,22
+Intel(R) Pentium(R) CPU G2120 @ 3.10GHz,22
+Genuine Intel(R) CPU 0000 @ 2.90GHz,22
+AMD E2-3200 APU with Radeon(tm) HD Graphics,22
+Intel(R) Xeon(R) CPU E5-2667 0 @ 2.90GHz,22
+Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz,22
+Intel(R) Core(TM) i5-7360U CPU @ 2.30GHz,22
+Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz,22
+Intel(R) Core(TM) i5-3475S CPU @ 2.90GHz,22
+Intel(R) Xeon(R) CPU E31280 @ 3.50GHz,22
+Intel(R) Core(TM) i7-4770S CPU @ 3.10GHz,21
+Intel(R) Core(TM) i5-4288U CPU @ 2.60GHz,21
+AMD Athlon(tm) 64 X2 Dual Core Processor 5200+,21
+Intel(R) Xeon(R) CPU I7-7700  @ ,21
+Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz,21
+Intel(R) Xeon(R) CPU E5-2430L 0 @ 2.00GHz,21
+Intel(R) Core(TM) I7 7700k CPU @ 3.20GHz,21
+AMD Athlon(tm) X4 845 Quad Core Processor      ,21
+Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz,20
+Intel(R) Xeon(R) CPU E5-2683 v3 @ 2.00GHz,20
+Intel(R) Core(TM) I5 10500 CPU @ 3.10GHz,20
+Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz,20
+AMD Ryzen 5 PRO 2600 Six-Core Processor        ,20
+Pentium(R) Dual-Core  CPU      E5500  @ 2.80GHz,20
+Intel(R) Celeron(R) CPU G1820T @ 2.40GHz,20
+Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz,20
+Intel(R) Core(TM) i7-9700 CPU @ 3.7GHz,20
+AMD A8-5500B APU with Radeon(tm) HD Graphics   ,20
+Genuine Intel(R) CPU 0000 @ 2.70GHz,20
+Genuine Intel(R) CPU  @ 2.20GHz,19
+Intel(R) Xeon(R) CPU I7-10600KF,19
+Intel(R) Core(TM) i3 CPU       M 370  @ 2.40GHz,19
+AMD FX(tm)-4100 Quad-Core Processor            ,19
+Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz,19
+Intel(R) Celeron(R) CPU 3865U @ 1.80GHz,19
+Intel(R) Core(TM) i7-8700k CPU @ 3.7GHz,19
+Intel(R) Xeon(R) CPU           L5630  @ 2.13GHz,18
+Intel(R) Core(TM) i7-5600U CPU @ 2.60GHz,18
+Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz,18
+Intel(R) Xeon(R) CPU E5-1620 v3 @ 3.50GHz,18
+Intel(R) Core(TM)2 Duo CPU     E8600  @ 3.33GHz,18
+Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz,18
+Intel(R) Xeon(R) CPU E5-2470 0 @ 2.30GHz,18
+Intel(R) Xeon(R) CPU           X3470  @ 2.93GHz,18
+Intel(R) Core(TM) i9-9900T CPU @ 2.10GHz,18
+Intel(R) Core(TM) i9-9900KS CPU @ 4.00GHz,18
+Intel(R) Xeon(R) CPU           L5410  @ 2.33GHz,18
+11th Gen Intel(R) Core(TM) i7-1195G7 @ 2.90GHz,18
+12th Gen Intel(R) Core(TM) i9-12900K,17
+Intel(R) Core(TM) i7-4900MQ CPU @ 2.80GHz,17
+Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz,17
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ,17
+Intel(R) Xeon(R) CPU E3-1280 v3 @ 3.60GHz,17
+AMD Athlon(tm) 7750 Dual-Core Processor,17
+Intel(R) Xeon(R) CPU           X5690  @ 3.47GHz,17
+Intel(R) Pentium(R) CPU G3450 @ 3.40GHz,17
+Intel(R) Xeon(R) CPU           L5335  @ 2.00GHz,17
+Intel(R) Xeon(R) CPU E3-1240 v5 @ 3.50GHz,17
+Intel(R) Core(TM) i7 CPU         960  @ 3.20GHz,17
+AMD Ryzen 5 4600G with Radeon Graphics,17
+AMD Phenom(tm) 9650 Quad-Core Processor,16
+Intel(R) Xeon(R) CPU E3-1225 V2 @ 3.20GHz,16
+Intel(R) Core(TM) i5-4260U CPU @ 1.40GHz,16
+Intel(R) Xeon(R) CPU E3-1226 v3 @ 3.30GHz,16
+Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz,16
+Intel(R) Celeron(R) J4105 CPU @ 1.50GHz,16
+Intel(R) Celeron(R) CPU G1620T @ 2.40GHz,16
+Intel(R) Xeon(R) CPU E5-2696 v3 @ 2.30GHz,16
+Intel(R) Core(TM) i5-6267U CPU @ 2.90GHz,16
+AMD Ryzen 5 PRO 4650G with Radeon Graphics,16
+Intel(R) Core(TM) i7-2620M CPU @ 2.70GHz,16
+Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz,16
+Intel(R) Pentium(R) CPU G3420 @ 3.20GHz,16
+Intel(R) Xeon(R) CPU           X5667  @ 3.07GHz,15
+Intel(R) Pentium(R) CPU G3470 @ 3.60GHz,15
+Intel(R) Core(TM) i3-4170T CPU @ 3.20GHz,15
+Intel(R) Xeon(R) CPU E3-1281 v3 @ 3.70GHz,15
+Intel(R) Xeon(R) CPU           X5677  @ 3.47GHz,15
+Intel(R) Core(TM) I7 8700 CPU @ 3.20GHz,15
+AMD Phenom(tm) II X4 830 Processor,15
+Intel(R) Core(TM) i5-8257U CPU @ 1.40GHz,15
+Intel(R) Celeron(R) CPU 5205U @ 1.90GHz,15
+Intel(R) Celeron(R) CPU        E3500  @ 2.70GHz,15
+AMD A10-5750M APU with Radeon(tm) HD Graphics  ,15
+11th Gen Intel(R) Core(TM) i7-11390H @ 3.40GHz,14
+Intel(R) Celeron(R) CPU 1007U @ 1.50GHz,14
+Intel(R) Core(TM) i5 CPU         660  @ 3.33GHz,14
+Intel(R) Xeon(R) CPU           E5530  @ 2.40GHz,14
+Intel(R) Core(TM) m3-6Y30 CPU @ 0.90GHz,14
+Intel(R) Xeon(R) CPU           E5440  @ 2.83GHz,14
+Intel(R) Xeon(R) CPU E5-2609 0 @ 2.40GHz,14
+Intel(R) Celeron(R) J4125 CPU @ 2.00GHz,14
+Intel(R) Celeron(R) CPU G3920 @ 2.90GHz,14
+Intel(R) Core(TM) i5-3340M CPU @ 2.70GHz,14
+AMD Athlon(tm) II X3 440 Processor,14
+Intel(R) Core(TM) i5-3380M CPU @ 2.90GHz,14
+Intel(R) Celeron(R) CPU G540T @ 2.10GHz,14
+Intel(R) Xeon(R) CPU E5-2682 v4 @ 2.50GHz,14
+Intel(R) Celeron(R) CPU 1000M @ 1.80GHz,14
+Intel(R) Pentium(R) 3805U @ 1.90GHz,14
+AMD A4-6300B APU with Radeon(tm) HD Graphics   ,14
+Intel(R) Core(TM) i7-4712HQ CPU @ 2.30GHz,13
+Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz,13
+Intel(R) Xeon(R) CPU           X3450  @ 2.67GHz,13
+Intel(R) Core(TM)2 Quad  CPU   Q9300  @ 2.50GHz,13
+Intel(R) Core(TM) i7-7820X CPU @ 3.60GHz,13
+AMD Ryzen: ZD270XBGM88AF_42/37_Y               ,13
+AMD RX-425BB with AMD Radeon(tm) R6 Graphics   ,13
+AMD Athlon(tm) II X3 435 Processor,13
+Intel(R) Core(TM) i5-8279U CPU @ 2.40GHz,13
+Intel(R) Core(TM) i5-3470T CPU @ 2.90GHz,13
+Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz,13
+Intel(R) Core(TM) i5-10505 CPU @ 3.20GHz,13
+Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz,13
+Genuine Intel(R) CPU 0000 @ 1.80GHz,13
+Intel(R) Xeon(R) CPU E5-1660 0 @ 3.30GHz,13
+Intel(R) Core(TM) i7-8700K CPU @ ,13
+Intel(R) Core(TM) i3-3240T CPU @ 2.90GHz,13
+AMD Phenom(tm) II X4 960T Processor,13
+AMD Phenom(tm) II X4 B95 Processor,13
+Intel(R) Pentium(R) CPU G2030T @ 2.60GHz,13
+Intel(R) Xeon(R) CPU E31270 @ 3.40GHz,13
+Intel(R) Core(TM) i7-5###U CPU @ 2.20GHz,13
+Genuine Intel(R) CPU 0000 @ 2.50GHz,13
+Intel(R) Core(TM) i5-2467M CPU @ 1.60GHz,12
+Intel(R) Core(TM) i7-5700HQ CPU @ 2.70GHz,12
+AMD Phenom(tm) II X4 840 Processor,12
+Pentium(R) Dual-Core  CPU      E6300  @ 2.80GHz,12
+Intel(R) Celeron(R) G4930T CPU @ 3.00GHz,12
+Intel(R) Celeron(R) CPU 1037U @ 1.80GHz,12
+"AMD A10-7850K Radeon R7, 12 Compute Cores 4C+8G",12
+"AMD A10-9630P RADEON R5, 10 COMPUTE CORES 4C+6G",12
+Intel(R) Pentium(R) Silver N5000 CPU @ 1.10GHz,12
+Intel(R) Pentium(R) Gold G5620 CPU @ 4.00GHz,12
+Intel(R) Pentium(R) CPU B940 @ 2.00GHz,12
+AMD FX(tm)-8120 Eight-Core Processor           ,12
+AMD Athlon Silver 3050U with Radeon Graphics   ,12
+Intel(R) Core(TM) i3 CPU       M 390  @ 2.67GHz,12
+Intel(R) Core(TM) i5-8259U CPU @ 2.30GHz,12
+Intel(R) Xeon(R) E-2124 CPU @ 3.30GHz,12
+Intel(R) Celeron(R) 2957U @ 1.40GHz,12
+Intel(R) Core(TM) i7-2640M CPU @ 2.80GHz,12
+Intel(R) Core(TM) I7 9700 CPU @ 3.30GHz,12
+Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz,12
+Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz,12
+12th Gen Intel(R) Core(TM) i5-12500,12
+AMD A10-4600M APU with Radeon(tm) HD Graphics  ,12
+AMD Athlon(tm) II X2 221 Dual-Core Processor,12
+Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz,12
+Intel(R) Core(TM) i3 CPU         540  @ 3.07GHz,11
+Intel(R) Core(TM) i5-1035G4 CPU @ 1.10GHz,11
+Intel(R) Xeon(R) CPU E31225 @ 3.10GHz,11
+Intel(R) Core(TM) i7 7700K CPU @,11
+Intel(R) Core(TM) I7 10700k CPU @ 3.80GHz,11
+Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz,11
+AMD Athlon(tm) 64 X2 Dual Core Processor 4200+,11
+Intel(R) Xeon(R) CPU E5-2670 v3 @ 2.30GHz,11
+Intel(R) Xeon(R) CPU            5160  @ 3.00GHz,11
+Intel(R) Core(TM) i7 10700F CPU,11
+AMD A4-3400 APU with Radeon(tm) HD Graphics,11
+11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz,11
+11th Gen Intel(R) Core(TM) i7-11700 @ 2.5GHz,11
+Intel(R) Celeron(R) G5900 CPU @ 3.40GHz,11
+Intel(R) Xeon(R) CPU           E5405  @ 2.00GHz,11
+Intel(R) Xeon(R) CPU E5-4650 v3 @ 2.10GHz,11
+Intel(R) Core(TM) i7-9700 CPU @ 3.90GHz,11
+Intel(R) Core(TM) i7-11700KF @,11
+Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz,11
+AMD Sempron(tm) Processor LE-1200,11
+Intel(R) Celeron(R) G5925 CPU @ 3.60GHz,11
+Intel(R) Core(TM)2 Duo CPU     E4500  @ 2.20GHz,11
+Intel(R) Core(TM) i7-4960X CPU @ 3.60GHz,11
+Intel(R) Core(TM)2 Duo CPU     T8100  @ 2.10GHz,11
+AMD Ryzen 9 3950X 16-Core Processor            ,11
+AMD FX(tm)-8150 Eight-Core Processor           ,11
+AMD A4-3300M APU with Radeon(tm) HD Graphics,11
+Intel(R) Core(TM) i3-9350KF CPU @ 4.00GHz,11
+AMD Ryzen 7 PRO 4750GE with Radeon Graphics,11
+Intel(R) Celeron(R) CPU 2950M @ 2.00GHz,11
+Intel(R) Core(TM) i3-5010U CPU @ 2.10GHz,11
+Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz,11
+Intel(R) Pentium(R) CPU G3460 @ 3.50GHz,11
+Intel(R) Xeon(R) CPU E5-4627 v2 @ 3.30GHz,11
+Intel(R) Core(TM) I9 9900 CPU @ 3.10GHz,10
+Intel(R) Core(TM) i9-11900F CPU @ 3.60GHz,10
+Intel(R) Xeon(R) CPU E3-1246 v3 @ 3.50GHz,10
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+,10
+AMD Eng Sample: 100-000000262-50_Y             ,10
+AMD Phenom(tm) II X4 B60 Processor,10
+Intel(R) Core(TM) i3-7100T CPU @ 3.40GHz,10
+Intel(R) Xeon(R) CPU           W3565  @ 3.20GHz,10
+Intel(R) Core(TM) i7-2677M CPU @ 1.80GHz,10
+Intel(R) Celeron(R) CPU 1005M @ 1.90GHz,10
+AMD Ryzen 9 3900XT 12-Core Processor           ,10
+Intel(R) Core(TM) i3 CPU       M 350  @ 2.27GHz,10
+Intel(R) Core(TM) i3-2100T CPU @ 2.50GHz,10
+Intel(R) Core(TM) i3-6320 CPU @ 3.90GHz,10
+Intel(R) Core(TM) i7-6498DU CPU @ 2.50GHz,10
+AMD A6-3600 APU with Radeon(tm) HD Graphics,10
+AMD FX(tm)-870K Quad Core Processor            ,10
+Genuine Intel(R) CPU  @ 3.40GHz,10
+Intel(R) Core(TM) i5-10400F CPU @,10
+Intel(R) Core(TM) i3-2125 CPU @ 3.30GHz,10
+Intel(R) Core(TM) i5 CPU       M 460  @ 2.53GHz,10
+AMD Ryzen 3 3300X 4-Core Processor             ,10
+Intel(R) Core(TM) i3-8100B CPU @ 3.60GHz,10
+Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz,10
+Intel(R) Core(TM) i5-10500T CPU @ 2.30GHz,10
+Intel(R) Xeon(R) CPU E5-2603 v3 @ 1.60GHz,10
+Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz,10
+Intel(R) Xeon(R) CPU E5-4607 0 @ 2.20GHz,10
+"AMD PRO A8-8650B R7, 10 Compute Cores 4C+6G    ",10
+Intel(R) Core(TM) I5 9400F CPU @ 2.90GHz,10
+Intel(R) Pentium(R) CPU G3240T @ 2.70GHz,10
+Genuine Intel(R) CPU 0000 @ 3.10GHz,10
+Intel(R) Core(TM) i7-3537U CPU @ 2.00GHz,10
+Intel(R) Core(TM) i7-2820QM CPU @ 2.30GHz,10
+Intel(R) Core(TM) i7-4980HQ CPU @ 2.80GHz,10
+Intel(R) Core(TM) i7-5557U CPU @ 3.10GHz,9
+Intel(R) Core(TM) i7-3820QM CPU @ 2.70GHz,9
+Intel(R) Core(TM) i5-3450S CPU @ 2.80GHz,9
+Intel(R) Core(TM) I5 9400F CPU @ 3.30GHz,9
+Intel(R) Core(TM) i5 CPU         661  @ 3.33GHz,9
+Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz,9
+Intel(R) Core(TM) i5-6350HQ CPU @ 2.30GHz,9
+Intel(R) Core(TM) I5 10600 CPU @ 3.30GHz,9
+Intel(R) Pentium(R) CPU G870 @ 3.10GHz,9
+Intel(R) Pentium(R) CPU G645T @ 2.50GHz,9
+Intel(R) Xeon(R) CPU E5-2697 v2 @ 2.70GHz,9
+Intel(R) Core(TM) i5-4570T CPU @ 2.90GHz,9
+Intel(R) Core(TM) i7-11700k CPU @,9
+Intel 酷睿i7 10700K,9
+Intel(R) Celeron(R) CPU N3350 @ 1.10GHz,9
+Intel(R) Xeon(R) CPU           X5672  @ 3.20GHz,9
+Intel(R) Pentium(R) CPU G4500T @ 3.00GHz,9
+Intel(R) Core(TM) i5-3360M CPU @ 2.80GHz,9
+Intel(R) Core(TM) i5-2415M CPU @ 2.30GHz,9
+Intel(R) Core(TM) i3 CPU       M 330  @ 2.13GHz,9
+AMD Ryzen 7 PRO 1700X Eight-Core Processor     ,9
+,9
+AMD FX(tm)-6200 Six-Core Processor             ,9
+AMD FX(tm)-8310 Eight-Core Processor           ,9
+Intel(R) Core(TM) i5-3340 CPU @ 3.10GHz,9
+Intel(R) Core(TM) i7-5960X CPU @ 3.00GHz,9
+Intel(R) Core(TM)2 Duo CPU     T6400  @ 2.00GHz,9
+Intel(R) Xeon(R) CPU E5-4640 v2 @ 2.20GHz,9
+Intel(R) Celeron(R) CPU G3900T @ 2.60GHz,9
+Intel(R) Core(R) CPU i5-11500  @,9
+Intel(R) Core(TM) i7-10700 CPU @ 3.7GHz,9
+Intel(R) Core(TM) i5-7500T CPU @ 2.70GHz,9
+Intel(R) Pentium(R) CPU G2130 @ 3.20GHz,9
+Intel(R) Core(TM) i7-8700k CPU @ 4.10GHz,9
+Intel(R) Xeon(R) CPU E5-2680R v4 @ 2.40GHz,9
+Intel(R) Core(TM) i5-6198DU CPU @ 2.30GHz,9
+Intel(R) Xeon(R) CPU E3-1245 v3 @ 3.40GHz,9
+Intel(R) Xeon(R) CPU E3-1285L v4 @ 3.40GHz,9
+Intel(R) Core(TM) i5 CPU       M 560  @ 2.67GHz,9
+"AMD A6-7480 Radeon R5, 8 Compute Cores 2C+6G   ",9
+Intel(R) Pentium(R) CPU G2020T @ 2.50GHz,9
+Intel(R) Xeon(R) CPU E5-2630L v2 @ 2.40GHz,9
+Intel(R) Core(TM) i7-4910MQ CPU @ 2.90GHz,9
+Intel(R) Core(TM) i7 CPU       K 875  @ 2.93GHz,9
+AMD Ryzen 5 PRO 1600 Six-Core Processor        ,9
+AMD Phenom(tm) II X4 925 Processor,9
+Intel(R) Core(TM) i7-2700K CPU @ 3.50GHz,9
+Intel(R) Core(TM) i7-4860HQ CPU @ 2.40GHz,8
+Intel(R) Core(TM) i5-8500 CPU @ 4.10GHz,8
+Intel(R) Core(TM) i5-9600 CPU @ 3.10GHz,8
+Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz,8
+AMD FX(tm)-4130 Quad-Core Processor            ,8
+Intel(R) Celeron(R) CPU N3450 @ 1.10GHz,8
+Intel(R) Core(TM) i5 CPU       S 760  @ 2.53GHz,8
+Intel(R) Core(TM) i3-4360T CPU @ 3.20GHz,8
+Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz,8
+Intel(R) Core(TM)2 Duo CPU     T6600  @ 2.20GHz,8
+Intel(R) Celeron(R) CPU 3965U @ 2.20GHz,8
+AMD Athlon(tm) 64 X2 Dual Core Processor 4600+,8
+AMD Athlon(tm) II P340 Dual-Core Processor,8
+AMD Phenom(tm) II X6 1055T Processor,8
+12th Gen Intel(R) Core(TM) i5-12400,8
+Intel(R) Xeon(R) E-2276M  CPU @ 2.80GHz,8
+Intel(R) Xeon(R) CPU E5-2669 v3 @ 2.30GHz,8
+Intel(R) Pentium(R) Gold G6500 CPU @ 4.10GHz,8
+Intel(R) Core(TM) i5-7267U CPU @ 3.10GHz,8
+Intel(R) Core(TM) I5 10600F CPU @ 3.30GHz,8
+Intel(R) Core(TM) i5-10400f CPU @ 4.0GHz,8
+"AMD A6-9200 RADEON R4, 5 COMPUTE CORES 2C+3G   ",8
+AMD Athlon PRO 200GE w/ Radeon Vega Graphics   ,8
+Intel(R) Xeon(R) CPU E3-1235L v5 @ 2.00GHz,8
+12th Gen Intel(R) Core(TM) i3-12100,8
+AMD Athlon(tm) II X2 265 Processor,8
+AMD A10-5800B APU with Radeon(tm) HD Graphics  ,8
+11th Gen Intel(R) Core(TM) i7-11600H @ 2.90GHz,8
+Intel(R) Core(TM) i7 CPU       S 860  @ 2.53GHz,8
+Intel(R) Core(TM) i5-8500 CPU @ 4.00GHz,8
+Intel(R) Pentium(R) CPU G2100T @ 2.60GHz,8
+Intel(R) Core(TM)2 Duo CPU     T7250  @ 2.00GHz,8
+Intel(R) Core(TM) i9-10900X CPU @ 3.70GHz,8
+Intel(R) Xeon(R) CPU E5-26xx v4,8
+Intel(R) Xeon(R) CPU           L5639  @ 2.13GHz,8
+"AMD A4 PRO-7350B R5, 5 Compute Cores 2C+3G     ",8
+Intel(R) Core(TM) i7-4810MQ CPU @ 2.80GHz,8
+Intel(R) Pentium(R) CPU  J2900  @ 2.41GHz,8
+Intel(R) Core(TM) I5 11600k CPU @ 4.10GHz,8
+Intel(R) Core(TM) i3-2328M CPU @ 2.20GHz,8
+AMD Ryzen 7 PRO 2700 Eight-Core Processor      ,8
+Intel(R) Core(TM) i7-4765T CPU @ 2.00GHz,8
+Intel(R) Core(TM) i7-6660U CPU @ 2.40GHz,8
+Intel(R) Core(TM) i7-2675QM CPU @ 2.20GHz,7
+Intel(R) Core(TM) I7 11700k CPU @ 3.60GHz,7
+AMD Ryzen 5 PRO 4650U with Radeon Graphics,7
+AMD Athlon(tm) X2 350 Dual Core Processor      ,7
+Intel(R) Xeon(R) CPU           X5355  @ 2.66GHz,7
+Intel(R) Xeon(R) CPU            5150  @ 2.66GHz,7
+Intel(R) Core(TM)2 Duo CPU     T8300  @ 2.40GHz,7
+AMD A8-6410 APU with AMD Radeon R5 Graphics    ,7
+"Intel Core Processor (Haswell, no TSX)",7
+AMD Ryzen 9 5900HS with Radeon Graphics        ,7
+Intel(R) Xeon(R) CPU E5-1630 v3 @ 3.70GHz,7
+Intel(R) Core(TM) i7-10700 CPU @ 3.30GHz,7
+AMD 100-000000031-02                           ,7
+AMD A8-7410 APU with AMD Radeon R5 Graphics    ,7
+AMD Ryzen 3 4300U with Radeon Graphics         ,7
+Intel(R) Celeron(R) J4005 CPU @ 2.00GHz,7
+AMD Athlon(tm) X2 240 Processor,7
+AMD Ryzen 7 1800X Eight-Core Processor         ,7
+Intel(R) Core(TM) i7-3517U CPU @ 1.90GHz,7
+Intel(R) Xeon(R) CPU E5-2658 0 @ 2.10GHz,7
+Intel(R) Xeon(R) CPU I9-10900KF,7
+"AMD A10 PRO-7800B R7, 12 Compute Cores 4C+8G   ",7
+Intel(R) Core(TM) i5-4590 CPU,7
+Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz,7
+AMD A6-7310 APU with AMD Radeon R4 Graphics    ,7
+AMD Phenom(tm) II X3 B75 Processor,7
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+,7
+AMD Athlon(tm) II X2 235e Processor,7
+Intel(R) Core(TM) i5-6360U CPU @ 2.00GHz,7
+Intel(R) Core(TM) i3-7020U CPU @ 2.30GHz,7
+Intel(R) Core(TM)2 Duo CPU     P9700  @ 2.80GHz,7
+Intel(R) Core(TM)2 Duo CPU     T6670  @ 2.20GHz,7
+Intel(R) Core(TM) i5-7600T CPU @ 2.80GHz,6
+"AMD A10-7870K Radeon R7, 12 Compute Cores 4C+8G",6
+"AMD A10-7300 Radeon R6, 10 Compute Cores 4C+6G ",6
+Intel(R) Core(TM) i5-4310U CPU @ 2.00GHz,6
+Intel(R) Core(TM) i5-4340M CPU @ 2.90GHz,6
+Intel(R) Core(TM) i7-3540M CPU @ 3.00GHz,6
+Intel(R) Core(TM) i5-8400 CPU @ 2.8GHz,6
+Intel(R) Core(TM) i7-9700T CPU @ 2.00GHz,6
+Intel(R) Core(TM) i9-9880H CPU @ 2.30GHz,6
+Intel(R) Xeon(R) CPU           W3580  @ 3.33GHz,6
+"AMD FX-9800P RADEON R7, 12 COMPUTE CORES 4C+8G ",6
+AMD A10-6700T APU with Radeon(tm) HD Graphics  ,6
+Intel(R) Core(TM) i7-4760HQ CPU @ 2.10GHz,6
+Intel(R) Xeon(R) CPU E5-4650 0 @ 2.70GHz,6
+Intel(R) Xeon(R) CPU E5-4610 0 @ 2.40GHz,6
+Intel(R) Core(TM) i9-9900K CPU @,6
+Intel(R) Core(TM)2 Duo CPU     P7350  @ 2.00GHz,6
+AMD Phenom(tm) 8650 Triple-Core Processor,6
+AMD Athlon(tm) II X2 B28 Processor,6
+Genuine Intel(R) CPU  @ 2.40GHz,6
+AMD Ryzen 7 3800XT 8-Core Processor            ,6
+AMD Phenom(tm) II X4 910e Processor,6
+AMD Athlon Gold 3150U with Radeon Graphics     ,6
+Intel(R) Xeon(R) CPU           E5345  @ 2.33GHz,6
+Intel(R) Core(TM) i7-7700,6
+Intel(R) Core(TM) i5-5###U CPU @ 2.00GHz,6
+AMD Athlon(tm) II X4 610e Processor,6
+AMD E1-6010 APU with AMD Radeon R2 Graphics    ,6
+AMD Ryzen 3 5300U with Radeon Graphics         ,6
+Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz,6
+Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz,6
+Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz,6
+Intel(R) Core(TM) i5-4690S CPU @ 3.20GHz,6
+Intel(R) Pentium(R) CPU        P6100  @ 2.00GHz,6
+Intel(R) Core(TM) i3-3225 CPU @ 3.30GHz,6
+Intel(R) Core(TM)2 Quad CPU    Q9550  @ 2.83GHz,6
+Intel(R) Core(TM) i7-4600M CPU @ 2.90GHz,6
+Intel(R) Core(TM) I7 10700 CPU @ 3.80GHz,6
+Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz,6
+Intel(R) Xeon(R) CPU           X3460  @ 2.80GHz,6
+AMD Athlon(tm) 5200 Dual-Core Processor,6
+AMD A10-7850K APU with Radeon(TM) R7 Graphics  ,6
+Intel(R) Atom(TM) D525 CPU @ 1.20GHz,6
+Intel(R) Core(TM) i3-7320 CPU @ 4.10GHz,6
+Intel(R) Core(TM) i7-7810HQ CPU @ 1.60GHz,6
+Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz JSH,5
+Intel(R) Core(TM) I7 10700F CPU @,5
+Intel(R) Core(TM) i5-5575R CPU @ 2.80GHz,5
+AMD Ryzen 5 2400GE with Radeon Vega Graphics   ,5
+AMD Ryzen 3 3300U with Radeon Vega Mobile Gfx  ,5
+ZHAOXIN KaiXian KX-U6780A@2.7GHz,5
+Intel(R) Core(TM) i5-8500B CPU @ 3.00GHz,5
+Intel(R) Core(TM) i7-6600U CPU @ 2.60GHz,5
+Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,5
+AMD Phenom(tm) II X4 B45 Processor,5
+Intel(R) Pentium(R) CPU G850 @ 2.90GHz,5
+Intel(R) Core(TM) i7-6900K CPU @ 3.20GHz,5
+Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz,5
+"AMD A9-9400 RADEON R5, 5 COMPUTE CORES 2C+3G   ",5
+Intel(R) Xeon(R) CPU           L3406  @ 2.27GHz,5
+Intel(R) Core(TM) I9-11900 CPU @ 2.90GHz,5
+AMD Athlon(tm) II X3 455 Processor,5
+"AMD FX-8800P Radeon R7, 12 Compute Cores 4C+8G ",5
+Intel(R) Core(TM) I5 11400F CPU @,5
+Intel(R) Core(TM) i5-1035G7 CPU @ 1.20GHz,5
+Intel(R) Xeon(R) CPU E3-1225 v6 @ 3.30GHz,5
+Intel(R) Core(TM) i7-3840QM CPU @ 2.80GHz,5
+Intel(R) Core(TM) i7-3940XM CPU @ 3.00GHz,5
+Intel(R) Core(TM) I7 10700F CPU @ 3.20GHz,5
+Intel(R) Core(TM) i9-9920X CPU @ 3.50GHz,5
+Intel(R) Pentium(R) CPU G4520 @ 3.60GHz,5
+AMD Phenom(tm) II X4 840T Processor,5
+AMD A4-3300 APU with Radeon(tm) HD Graphics,5
+12th Gen Intel(R) Core(TM) i3-12100F,5
+AMD Phenom(tm) II X2 555 Processor,5
+"AMD E2-9010 RADEON R2, 4 COMPUTE CORES 2C+2G   ",5
+Intel(R) Core(TM) i5-3335S CPU @ 2.70GHz,5
+Intel(R) Celeron(R) N5105 @ 2.00GHz,5
+Intel(R) Pentium(R) CPU G4620 @ 3.70GHz,5
+Intel(R) Core(TM) i7-10700 ,5
+Intel(R) Core(TM) i7-10700F CPU @,5
+11th Gen Intel(R) Core(TM) i7-11700 @,5
+AMD Ryzen 3 1300X Quad-Core Processor          ,5
+Genuine Intel(R) CPU 0000 @ 2.00GHz,5
+AMD Phenom(tm) II X2 B59 Processor,5
+Intel(R) Core(TM) I7 9700k CPU @ 3.60GHz,5
+Intel(R) Pentium(R) 3558U @ 1.70GHz,5
+Intel(R) Core(TM) i9-9940X CPU @ 3.30GHz,5
+Intel(R) Pentium(R) Dual  CPU  T3200  @ 2.00GHz,5
+Intel(R) Core(TM) i9-7960X CPU @ 2.80GHz,4
+Intel(R) Core(TM)2 Quad CPU    Q8400  @ 2.66GHz,4
+Intel(R) Pentium(R) CPU G4500 @ 3.50GHz,4
+Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz,4
+Intel(R) Core(TM) i3-6300 CPU @ 3.80GHz,4
+Intel(R) Core(TM) i3-2120T CPU @ 2.60GHz,4
+AMD EPYC 7K62 48-Core Processor,4
+AMD A10-6790K APU with Radeon(tm) HD Graphics  ,4
+Intel(R) Xeon(R) CPU E5-2658 v2 @ 2.40GHz,4
+Intel(R) Core(TM) i5-3550S CPU @ 3.00GHz,4
+Intel(R) Core(TM)2 Duo CPU     E8300  @ 2.83GHz,4
+Intel(R) Xeon(R) CPU E3-1225 v5 @ 3.30GHz,4
+AMD Turion(tm) II P560 Dual-Core Processor,4
+Intel(R) Core(TM) i7-6950X CPU @ 3.00GHz,4
+Intel(R) Core(TM) i7-8700 CPU @ 2.90GHz,4
+Intel(R) Core(TM) i7-9700F CPU @ ,4
+Intel(R) Core(TM) i7-4600U CPU @ 2.10GHz,4
+Intel(R) Xeon(R) CPU           X5679  @ 3.20GHz,4
+Intel(R) Pentium(R) CPU 3825U @ 1.90GHz,4
+AMD Athlon(tm) II X4 559 Processor,4
+11th Gen Intel(R) Core(TM) i5-1145G7 @ 2.60GHz,4
+AMD Phenom(tm) II X6 1090T Processor,4
+Intel(R) Xeon(R) W-2140B CPU @ 3.20GHz,4
+Intel(R) Xeon(R) CPU E5-2673 v2 @ 3.30GHz,4
+Intel(R) Xeon(R) CPU E5-2630L v3 @ 1.80GHz,4
+Intel(R) Core(TM) i5 8400 CPU @ 3.60GHz,4
+AMD Ryzen 7 4700G with Radeon Graphics         ,4
+Intel(R) Celeron(R) G5920 CPU @ 3.50GHz,4
+AMD Phenom(tm) 8750 Triple-Core Processor,4
+11th Gen Intel(R) Core(TM) i7-11700T @ 1.40GHz,4
+Intel(R) Core(TM) i7-8700 @,4
+"AMD A9-9410 RADEON R5, 5 COMPUTE CORES 2C+3G   ",4
+i7 11400F,4
+Intel(R) Celeron(R) G4900T CPU @ 2.90GHz,4
+AMD Phenom(tm) II X2 570 Processor,4
+Apple Silicon,4
+Genuine Intel(R) CPU 0 @ 2.70GHz,4
+Genuine Intel(R) CPU 0000 @ 1.60GHz,4
+Intel(R) Pentium(R) CPU G3250T @ 2.80GHz,4
+Intel(R) Core(TM) i5-2435M CPU @ 2.40GHz,4
+"AMD A10-8750 Radeon R7, 12 Compute Cores 4C+8G ",4
+Intel(R) Core(TM) i5 CPU       M 430  @ 2.27GHz,4
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+,4
+Intel(R) Celeron(R) CPU G470 @ 2.00GHz,4
+Intel(R) Core(TM) I7 10400F CPU @,4
+Intel(R) Core(TM)2 Duo CPU     T9600  @ 2.80GHz,4
+Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz,4
+Intel(R) Xeon(R) CPU           X5687  @ 3.60GHz     ,4
+Intel(R) Xeon(R) CPU E3-1260L v5 @ 2.90GHz,3
+Intel(R) Xeon(R) CPU E3-1285 v4 @ 3.50GHz,3
+Intel(R) Xeon(R) CPU           L5320  @ 1.86GHz,3
+Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz,3
+Intel(R) Core(TM) i7-3687U CPU @ 2.10GHz,3
+AMD A6-3420M APU with Radeon(tm) HD Graphics,3
+AMD A6-3500 APU with Radeon(tm) HD Graphics,3
+Intel(R) Core(TM) I7 11700k CPU @ 3.30GHz,3
+11th Gen Intel(R) Core(TM) i7-11700F @,3
+AMD Phenom(tm) II X4 850 Processor,3
+AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx  ,3
+"AMD FX-7500 Radeon R7, 10 Compute Cores 4C+6G  ",3
+Intel(R) Core(TM) i3-8121U CPU @ 2.20GHz,3
+Intel(R) Celeron(R) CPU  N3150  @ 1.60GHz,3
+Intel(R) Core(TM) i7-4790 CPU @ 3.50GHz,3
+Intel(R) Core(TM) i7-10850H CPU @ 2.70GHz,3
+Intel(R) Xeon(R) CPU E5-2440 v2 @ 1.90GHz,3
+Intel(R) Xeon(R) CPU E5-4620 v2 @ 2.60GHz,3
+Intel(R) Cope(TM) i5-4590 CPU @ 3.30GHz,3
+Intel(R) Xeon(R) CPU           X3330  @ 2.66GHz,3
+Intel(R) Core(TM) i5-6402P CPU @ 2.80GHz JSH,3
+Intel(R) Core(TM) i7-4850HQ CPU @ 2.30GHz,3
+"AMD A9-9420 RADEON R5, 5 COMPUTE CORES 2C+3G   ",3
+"AMD PRO A8-9600 R7, 10 COMPUTE CORES 4C+6G     ",3
+"AMD FX-9830P RADEON R7, 12 COMPUTE CORES 4C+8G ",3
+AMD A4-5000 APU with Radeon(TM) HD Graphics    ,3
+Intel(R) Core(TM) I5 10400F CPU @ 2.90GHz,3
+Intel(R) Core(TM) i5-10600K CPU @ 3.00GHz,3
+Intel(R) Core(TM) i5-3437U CPU @ 1.90GHz,3
+Intel(R) Celeron(R) J4115 CPU @ 1.80GHz,3
+Intel(R) Xeon(R) CPU -9400F @ ,3
+Intel(R) Core(TM) i7 10700 CPU @ 2.9GHz,3
+Intel(R) Xeon(R) CPU E5-2440 0 @ 2.40GHz,3
+Intel(R) Core(TM) i5-5675R CPU @ 3.10GHz,3
+AMD A4-3420 APU with Radeon(tm) HD Graphics,3
+ Intel(R) Core(TM) i9-10900K CPU @ 5.10GHz,3
+Genuine Intel(R) CPU  @ 3.20GHz,3
+Intel(R) Celeron(R) CPU G1840T @ 2.50GHz,3
+Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz,3
+AMD A6-3400M APU with Radeon(tm) HD Graphics,3
+"AMD A8-7200P Radeon R5, 8 Compute Cores 4C+4G  ",3
+Intel(R) Pentium(R) CPU B960 @ 2.20GHz,3
+"AMD A10-7400P Radeon R6, 10 Compute Cores 4C+6G",3
+AMD A4-5300B APU with Radeon(tm) HD Graphics   ,3
+Intel(R) Celeron(R) CPU        E3300  @ 2.50GHz,3
+Intel(R) Celeron(R) CPU B820 @ 1.70GHz,3
+Intel(R) Core(TM) i7-11700 CPU @ 2.5GHz,3
+Intel(R) Core(TM) i5-7600K CPU @ 3.60GHz,3
+Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz JSH,3
+Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz,2
+Intel(R) Core(TM) i7-11700F CPU @ ,2
+Intel(R) Core(TM) i7-4771 CPU @ 3.50GHz,2
+Intel(R) Core(TM) i3-10300 CPU @ 3.70GHz,2
+AMD A8-3820 APU with Radeon(tm) HD Graphics,2
+Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz,2
+Intel(R) Pentium(R) Gold 7505 @ 2.00GHz,2
+Intel(R) Core(TM) i7 9700F CPU @ 3.00GHz,2
+Intel(R) Core(TM) i5-4460S CPU @ 2.90GHz JSH,2
+Intel(R) Core(TM) i5-4690T CPU @ 2.50GHz,2
+Intel(R) Core(TM) i7-3970X CPU @ 3.50GHz,2
+AMD Athlon(tm) 64 X2 Dual Core CPU 5000+,2
+AMD A4-7300 APU with Radeon HD Graphics        ,2
+AMD Athlon(tm) II X3 460 Processor,2
+AMD Phenom(tm) 9550 Quad-Core Processor,2
+Genuine Intel(R) 0000 @ 1.80GHz,2
+Intel Core i7-4790 Processor JSH,2
+AMD A6-4400M APU with Radeon(tm) HD Graphics   ,2
+AMD Ryzen 3 2300U with Radeon Vega Mobile Gfx  ,2
+AMD Ryzen 7 2700U with Radeon Vega Mobile Gfx  ,2
+Intel(R) Core(TM) i5-4460 CPU @ 3.20GHz,2
+Intel(R) Core(TM) i7-10700T CPU @ 2.00GHz,2
+Intel(R) Xeon(R) CPU E5-2637 v3 @ 3.50GHz,2
+Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz,2
+Intel(R) Pentium(R) CPU 4405U @ 2.10GHz,2
+Intel(R) Pentium(R) CPU 4425Y @ 1.70GHz,2
+Intel(R) Xeon(R) CPU E5-2695 v2 @ 2.40GHz,2
+Intel(R) Core(TM) i7-2635QM CPU @ 2.00GHz,2
+Intel(R) Pentium(R) CPU 2117U @ 1.80GHz,2
+Intel(R) Celeron(R) N4100 CPU @ 1.10GHz,2
+Intel(R) Celeron(R) CPU  J3160  @ 1.60GHz,2
+AMD Ryzen: ZD2600BBM68AF_38/34_Y               ,2
+酷睿i5 10400F,2
+AMD Phenom(tm) 9850 Quad-Core Processor,2
+AMD Phenom(tm) II X4 810 Processor,2
+Intel(R) Core(R) CPU i7-11700  @,2
+Intel(R) Celeron(R) CPU G1830 @ 2.80GHz,2
+"AMD PRO A6-8550B R5, 6 Compute Cores 2C+4G     ",2
+AMD RX-427BB with AMD Radeon(tm) R7 Graphics   ,2
+Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz,2
+Intel(R) Core(TM) i7-4790T CPU @ 2.70GHz,2
+Intel(R) Core(TM) i7-3667U CPU @ 2.00GHz,2
+Intel(R) Xeon(R) CPU           X5472  @ 3.00GHz,2
+Intel(R) Core(TM) i7-9700F CPU @ 2.90GHz,2
+Intel(R) Core(TM) I9 9900k CPU @ 3.30GHz,2
+Intel(R) Core(TM)2 Duo CPU     E4600  @ 2.40GHz,2
+Pentium(R) Dual-Core CPU       T4400  @ 2.20GHz,2
+Intel(R) Core(TM) i3-2365M CPU @ 1.40GHz,2
+Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz JSH,2
+11th Gen Intel(R) Core(TM) i5-1130G7 @ 1.10GHz,2
+AMD Phenom(tm) II P820 Triple-Core Processor,2
+AMD Athlon(tm) X4 950 Quad Core Processor      ,2
+Intel(R) Xeon(R) CPU           E3113  @ 3.00GHz,2
+Intel(R) Pentium(R) CPU        P6200  @ 2.13GHz,2
+Intel(R) Core(TM)2 Duo CPU     E7200  @ 2.53GHz,2
+Intel(R) Core(TM) i7-4930K CPU @ 3.40GHz,2
+Intel(R) Core(TM) i7-4700K CPU @3.4GHz ,2
+Intel(R) Core(TM) i5-7Y54 CPU @ 1.20GHz,2
+Genuine Intel(R) CPU  @ 3.50GHz,2
+"AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G",2
+AMD A6-4455M APU with Radeon(tm) HD Graphics   ,2
+Intel(R) Core(TM) i5 CPU       M 540  @ 2.53GHz,2
+Intel(R) Core(TM)2 Duo CPU     T5750  @ 2.00GHz,2
+Intel(R) Core(TM)2 Duo CPU     E4700  @ 2.60GHz,2
+AMD A4-6210 APU with AMD Radeon R3 Graphics    ,2
+11th Gebn Intel(R) Core(TM) i5-11500 CPU @ ,2
+AMD Athlon(tm) II P320 Dual-Core Processor,2
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+,2
+Intel(R) Core(TM) I5 10600KF CPU @ 3.60GHz,2
+Intel(R) Core(TM) i5-10500 CPU @ 4.2GHz,2
+Intel(R) Core(TM) i7-5650U CPU @ 2.20GHz,2
+Intel(R) Core(TM) i9-10885H CPU @ 2.40GHz,2
+Intel(R) Xeon(R) CPU E31260L @ 2.40GHz,2
+Intel(R) Xeon(R) W-2133 CPU @ 3.60GHz,2
+Intel(R) Xeon(R) CPU E5-2650L 0 @ 1.80GHz,2
+Intel(R) Xeon(R) CPU E3-1220 v5 @ 3.00GHz,1
+Intel(R) Xeon(R) CPU E5-2603 0 @ 1.80GHz,1
+Intel(R) Xeon(R) CPU E5-2609 v4 @ 1.70GHz,1
+Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz,1
+Intel(R) Pentium(R) Gold G6600 CPU @ 4.20GHz,1
+Intel(R) Pentium(R) Dual  CPU  E2160  @ 1.80GHz,1
+Intel(R) Core(TM) i9-11900k CPU @,1
+Intel(R) Core(TM) i7-6650U CPU @ 2.20GHz,1
+Intel(R) Core(TM) i7-2720QM CPU @ 2.20GHz,1
+Intel(R) Core(TM) i5-9400F CPU @ 3.60GHz,1
+Intel(R) Celeron(R) CPU        E1200  @ 1.60GHz,1
+AMD Ryzen: ZD3301BBM6IF4_37/33_Y               ,1
+AMD Sempron(tm) 3850 APU with Radeon(tm) R3    ,1
+G  ,1
+"AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G   ",1
+11th Gen Intel(R) Core(TM)i7-11700F @ 2.5GHz,1
+Intel(R) Core(TM)2 Duo CPU     T7700  @ 2.40GHz,1
+Intel(R) Core(TM) i7-8700 CPU @ 3.4GHz,1
+Intel(R) Core(TM) i7-8700T CPU @ 2.40GHz,1
+Intel(R) Core(TM) I7 9700f CPU @ 3GHz,1
+Intel(R) Core(TM) i5-7600 CPU @ ,1
+Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz,1
+"AMD A8-7100 Radeon R5, 8 Compute Cores 4C+4G   ",1
+AMD Opteron(tm) Processor 4284                 ,1
+Genuine Intel(R) CPU 0000 @ 2.10GHz,1
+Intel(R) Core(TM) i5 9400f CPU,1
+Intel(R) Xeon(R) E-2134 CPU @ 3.50GHz,1
+Intel(R) Xeon(R) CPU E3-1290 V2 @ 3.70GHz,1
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz JSH,1
+Intel(R) Core(TM) i5-2450P CPU @ 3.20GHz,1
+Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz JSH,1
+Intel(R) Xeon(R) CPU           X3220  @ 2.40GHz,1
+Intel(R) Xeon(R) E-2286M  CPU @ 2.40GHz,1
+Intel(R) Xeon(R) CPU E5-2666 v3 @ 2.90GHz,1
+AMD A8-5545M APU with Radeon(tm) HD Graphics   ,1
+AMD Ryzen Threadripper 3960X 24-Core Processor ,1
+AMD Sempron(tm) 2650 APU with Radeon(tm) R3    ,1
+Intel(R) Celeron(R) N4000 CPU @ 1.10GHz,1
+Intel(R) Celeron(R) CPU B815 @ 1.60GHz,1
+Intel(R) Xeon(R) W-2255 CPU @ 3.70GHz,1
+Intel(R) Xeon(R) CPU E5-2403 v2 @ 1.80GHz,1
+Intel(R) Core(TM)2 Duo CPU     E7400  @ 2.80GHz,1
+Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz,1
+intel(R) Core(TM) i9-12900KF CPU @,1
+Intel(R) Core(TM) m5-6Y54 CPU @ 1.10GHz,1
+Intel(R) Core(TM) i7 12700kF CPU @ 4.10 GH,1
+Intel(R) Core(TM) i5-4278U CPU @ 2.60GHz,1
+Intel(R) Core(TM) i5 CPU       M 450  @ 2.40GHz,1
+Intel(R) Celeron(R) CPU        E1500  @ 2.20GHz,1
+Intel(R) Celeron(R) CPU  N2940  @ 1.83GHz,1
+"AMD PRO A10-8750B R7, 12 Compute Cores 4C+8G   ",1
+"AMD PRO A12-8870 R7, 12 COMPUTE CORES 4C+8G    ",1
+AMD Ryzen 3 PRO 2300U w/ Radeon Vega Mobile Gfx,1
+AMD Ryzen 5 3500 6-Core Processor              ,1
+Pentium(R) Dual-Core CPU       T4200  @ 2.00GHz,1
+AMD Sempron(tm) Processor 3000+,1
+AMD Phenom(tm) II X4 B25 Processor,1
+AMD Ryzen 3 PRO 2200G with Radeon Vega Graphics,1
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+,1
+AMD A4-3305M APU with Radeon(tm) HD Graphics,1
+Genuine Intel(R) CPU 0 @ 3.00GHz,1
+Intel(R) Celeron(R) N5100 @ 1.10GHz,1
+Intel(R) Core(TM) I5 6500 CPU @ 3.30GHz,1
+Intel(R) Core(TM) I5 9400KF CPU @ 2.8GHz,1
+Intel(R) Pentium(R) CPU G3260T @ 2.90GHz,1
+Intel(R) Core(TM)2 Duo CPU     T7500  @ 2.20GHz,1
+Intel(R) Core(TM)2 Quad CPU    Q9650  @ 3.00GHz,1
+Intel(R) Core(TM)2 CPU          6320  @ 1.86GHz,1
+Intel(R) Core(TM) i7-7700 @,1
+Intel(R) Pentium(R) Silver J5005 CPU @ 1.50GHz,1
+Intel(R) Pentium(R) Dual  CPU  E2220  @ 2.40GHz,1
+Intel(R) Core(TM) i7-10700F,1
+Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz,1
+Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz JSH,1
+Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz JSH,1
+Intel(R) Xeon(R) CPU E5-2643 v3 @ 3.40GHz,1
+Intel(R) Xeon(R) CPU E3-1275 V2 @ 3.50GHz,1
+Intel(R) Core(TM) i7-2637M CPU @ 1.70GHz,1
+Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz JSH,1
+Intel(R) Core(TM) i5-7500 CPU @ 3.80GHz,1
+AMD Ryzen 5 3600XT 6-Core Processor            ,1
+AMD A8-5557M APU with Radeon(tm) HD Graphics   ,1
+11th Gen Intel(R) Core(TM) i9-11980HK @ 2.60GHz,1
+Intel(R) Celeron(R) CPU J3455 @ 1.50GHz,1
+"AMD PRO A6-9500 R5, 8 COMPUTE CORES 2C+6G      ",1
+AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx,1
+Intel(R) Core(TM) i3-2348M CPU @ 2.30GHz,1
+AMD A10-5757M APU with Radeon(tm) HD Graphics  ,1
+AMD A6-6420K APU with Radeon(tm) HD Graphics   ,1
+Intel(R) Core(TM) i7-7700T @,1
+Intel(R) Core(TM) I9 12490F @ 5.20GHz,1
+Intel(R) Core(TM) I9 9400F CPU @ 3.30GHz,1
+Intel(R) Core(TM) i5-4250U CPU @ 1.30GHz,1
+Intel(R) Xeon(R) CPU           E5520  @ 2.27GHz,1
+Intel(R) Xeon(R) CPU E5-2683 v4 @ 2.10GHz,1
+Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz,1
+Intel(R) Xeon(R) Gold 6271C CPU @ 2.60GHz,1
+Intel(R)Core(TM) i9-9900K CPU @ 3.30GHz  (ES) ,1
+"AMD A10-7890K Radeon R7, 12 Compute Cores 4C+8G",1
+AMD Phenom(tm) 8250e Triple-Core Processor,1
+AMD E2-7110 APU with AMD Radeon R2 Graphics    ,1
+Intel(R) Core(TM) I5 10400 CPU @ 2.90GHz,1
+Intel(R) Celeron(R) CPU 3855U @ 1.60GHz,1
+Intel(R) Celeron(R) 2955U @ 1.40GHz,1
+Intel(R) Core(TM) i7 CPU         965  @ 3.20GHz,1
+Intel(R) Core(TM) i7 CPU         975  @ 3.33GHz,1
+Intel(R) Core(TM) i7 CPU       M 640  @ 2.80GHz,1
+Intel(R) Core(TM) i7-10070F CPU @ 2.90GHz,1
+Intel(R) Core(TM) I7 11700F CPU @,1
+Intel(R) Core(TM) I7 8700T CPU @ 2.90GHz,1
+Intel(R) Core(TM) i5-7440HQ CPU @ 2.80GHz,1
+Intel(R) Pentium(R) Dual  CPU  E2140  @ 1.60GHz,1
+Intel(R) Pentium(R) CPU 2020M @ 2.40GHz,1
+Intel(R) Core(TM) i9 11400F @ 5.60GHz,1
+Intel(R) Xeon(R) CPU E5-1620 v4 @ 3.50GHz,1
+Intel(R) Xeon(R) Gold 6130 CPU @ 2.10GHz,1
+Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz,1

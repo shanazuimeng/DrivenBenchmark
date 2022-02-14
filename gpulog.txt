@@ -1,0 +1,816 @@
+vga,(无列名)
+NVIDIA GeForce RTX 2060,44778
+NVIDIA GeForce GTX 1050 Ti,38451
+NVIDIA GeForce GTX 1060 3GB,37015
+NVIDIA GeForce GTX 1060 5GB,34074
+NVIDIA GeForce GTX 1660,30859
+NVIDIA GeForce GTX 1060 6GB,30293
+NVIDIA GeForce RTX 3060,18391
+NVIDIA GeForce GTX 750 Ti,17478
+NVIDIA GeForce GTX 960,16376
+NVIDIA GeForce GTX 1650,12890
+NVIDIA GeForce GTX 1050,11461
+Intel(R) UHD Graphics 630,10934
+NVIDIA GeForce GT 730,10586
+NVIDIA GeForce GTX 1660 SUPER,9866
+NVIDIA GeForce RTX 2070,8692
+NVIDIA GeForce GTX 950,7806
+NVIDIA GeForce GT 1030,6714
+NVIDIA GeForce GTX 750,6474
+Intel(R) HD Graphics,5948
+NVIDIA GeForce RTX 2060 SUPER,5629
+NVIDIA GeForce GTX 1660 Ti,5566
+Intel(R) HD Graphics 4600,5562
+NVIDIA GeForce RTX 2070 SUPER,5283
+NVIDIA GeForce GTX 1070 Ti,5019
+NVIDIA GeForce RTX 3060 Ti,4893
+Oray Display Mirror Driver,4540
+NVIDIA GeForce GTX 1070,4524
+Intel(R) HD Graphics 630,4357
+NVIDIA GeForce RTX 3070,4037
+NVIDIA GeForce GTX 650,3546
+Intel(R) HD Graphics 4400,3467
+AMD Radeon RX 580 2048SP,3395
+Intel(R) UHD Graphics,3213
+NVIDIA GeForce GTX 1080,2976
+Intel(R) HD Graphics 530,2782
+AMD Radeon(TM) Graphics,2581
+NVIDIA GeForce GT 630,2481
+NVIDIA GeForce GT 610,2269
+NVIDIA GeForce GT 710,2149
+NVIDIA GeForce GT 740 ,2046
+NVIDIA GeForce GTX 1650 SUPER,1631
+AMD Radeon R7 200 Series,1626
+NVIDIA GeForce GTX 970,1570
+NVIDIA GeForce RTX 2080 SUPER,1512
+Intel(R) UHD Graphics 620,1395
+NVIDIA GeForce GTX 660,1324
+Intel(R) Iris(R) Xe Graphics,1276
+Intel(R) UHD Graphics 610,1275
+Intel(R) HD Graphics 610,1258
+标准 VGA 图形适配器,1211
+NVIDIA GeForce RTX 3060 Laptop GPU,1140
+NVIDIA GeForce RTX 2080,1125
+AMD Radeon HD 7700 Series,1109
+Intel(R) HD Graphics 4000,1043
+NVIDIA GeForce RTX 3070 Ti,1036
+NVIDIA GeForce GTX 760,1029
+NVIDIA GeForce GTX 1060,1026
+Radeon RX 580 Series,958
+NVIDIA GeForce GTX 650 Ti ,955
+NVIDIA GeForce GTX 960M,948
+NVIDIA GeForce GT 720,897
+Intel(R) HD Graphics 510,823
+NVIDIA GeForce GTS 450,804
+Virtual Display Device,803
+Radeon RX 560 Series,796
+NVIDIA GeForce RTX 3050 Laptop GPU,789
+AMD Radeon(TM) R7 Graphics,788
+NVIDIA GeForce GTX 950M,784
+NVIDIA GeForce GTX 1650 Ti,770
+AMD Radeon(TM) Vega 8 Graphics,767
+AMD Radeon R7 350 Series,750
+Radeon RX550/550 Series,730
+Intel(R) HD Graphics 5500,704
+NVIDIA GeForce GTX 550 Ti,663
+标准 VGA 图形适配器_SW,635
+NVIDIA GeForce 210 ,628
+Mirage Driver,623
+NVIDIA GeForce GT 620,617
+Microsoft 基本显示适配器,613
+AMD Radeon HD 6700 Series,603
+Radeon RX 590 Series,591
+Intel(R) HD Graphics Family,586
+Intel(R) HD Graphics 620,573
+AMD Radeon HD 6570,563
+NVIDIA GeForce GT 705   ,533
+NVIDIA GeForce GT 430,529
+Intel(R) HD Graphics 520,524
+AMD RADEON HD 6450,517
+Radeon RX 570 Series,508
+NVIDIA GeForce RTX 3080,500
+NVIDIA GeForce 940MX,462
+NVIDIA GeForce GTX 1080 Ti,420
+Radmin Mirror Driver V3,413
+AMD Radeon HD 7800 Series,401
+NVIDIA GeForce MX150,392
+NVIDIA GeForce RTX 3050 Ti Laptop GPU,389
+Radeon(TM) RX 460 Graphics,381
+AMD Radeon RX 6600 XT,381
+AMD Radeon(TM) RX Vega 11 Graphics,356
+AMD Radeon HD 6500 Series,320
+AMD 760G,314
+Intel(R) HD Graphics 3000,304
+Intel(R) G41 Express Chipset,303
+VNC Mirror Driver,303
+NVIDIA GeForce GT 520,298
+Intel(R) UHD Graphics 750,297
+Radeon RX 5500 XT,293
+Radeon (TM) RX 470 Graphics,292
+NVIDIA GeForce MX110,289
+NVIDIA GeForce MX350,286
+AMD Radeon(TM) R9 370 series,281
+AMD Radeon HD 7560D,278
+NVIDIA GeForce MX250,274
+NVIDIA GeForce GTX 850M,266
+NVIDIA GeForce GT 240,265
+Intel(R) UHD Graphics 730,257
+AMD Radeon HD 6800 Series,250
+NVIDIA GeForce GT 220 ,241
+AMD Radeon(TM) RX 560 Series,237
+NVIDIA GeForce RTX 2080 Ti,226
+NVIDIA GeForce GT 440 ,222
+AMD Radeon HD 7670,218
+NVIDIA GeForce RTX 3070 Laptop GPU,215
+AMD Radeon (TM) R9 380 Series,210
+ATI Radeon HD 5400 Series,204
+AMD Radeon HD 6670,202
+NVIDIA GeForce 940M,201
+NVIDIA GeForce MX450,200
+AMD Radeon (TM) R9 370 Series,199
+NVIDIA GeForce 605,199
+AMD Radeon (TM) R7 360 Series,182
+NVIDIA GeForce RTX 3080 Ti,178
+AMD Radeon HD 5450,172
+AMD Radeon HD 7000 series,171
+NVIDIA GeForce GT 640   ,168
+AMD Radeon HD 7600 Series,168
+AMD Radeon HD 7570,166
+NVIDIA GeForce GTX 965M,165
+NVIDIA GeForce RTX 3050,163
+AMD Radeon R7 Graphics,160
+AMD Radeon (TM) R9 200 Series,159
+NVIDIA GeForce MX330,158
+AMD Radeon R7 240 Series,157
+ATI Radeon HD 5450,153
+NVIDIA GeForce GTX 770,143
+AMD Radeon R9 200 Series,142
+NVIDIA GeForce GTS 250,141
+Radeon 550 Series,140
+Intel(R) HD Graphics 6000,140
+AMD Radeon RX 5700 XT,136
+AMD Radeon RX590 GME,136
+Standard VGA Graphics Adapter_YGX,136
+NVIDIA GeForce 920M,135
+AMD Radeon HD 7660D,132
+AMD Radeon(TM) Vega 3 Graphics,130
+NVIDIA GeForce 610M ,119
+AMD Radeon HD 8500M,118
+AMD Radeon RX 5700,116
+NVIDIA GeForce 9500 GT,116
+ATI Radeon 3000 Graphics,114
+AMD Radeon HD 8370D,114
+AMD Radeon HD 7450 Graphics,111
+NVIDIA GeForce 9600 GT,110
+NVIDIA GeForce G210 ,108
+AMD Radeon R5 200 Series,105
+NVIDIA Quadro P620,104
+Radeon RX 560 XT,101
+NVIDIA GeForce 820M         ,101
+NVIDIA GeForce GT 720M,101
+NVIDIA GeForce GTX 660 Ti,100
+Radeon RX 550 Series,100
+AMD Radeon HD 8570D,100
+ATI Radeon HD 4300/4500 Series    ,98
+AMD Radeon RX 6600,95
+NVIDIA GeForce 840M        ,94
+NVIDIA GeForce GTX 650 Ti BOOST,93
+AMD Radeon(TM) 530,91
+AMD Radeon HD 6400 Series,88
+Radeon (TM) 530,85
+AMD Radeon (TM) R5 M330,85
+NVIDIA GeForce GT 750M,84
+ATI Radeon HD 5500 Series ,82
+NVIDIA GeForce GTX 560 SE,82
+NVIDIA GeForce GTX 1060 with Max-Q Design,80
+NVIDIA GeForce MX230,80
+AMD Radeon(TM) R5 Graphics,77
+Radeon RX 470 Series,75
+NVIDIA GeForce GTX 2060,73
+AMD Radeon RX 6700 XT,72
+AMD Radeon R7 300 Series,71
+NVIDIA Quadro K620,71
+NVIDIA GeForce GTX 560 ,70
+NVIDIA GeForce 9800 GT  ,70
+Radeon RX480~RX 590 Series,70
+NVIDIA GeForce 310 ,70
+Intel(R) Iris(R) Plus Graphics,68
+NVIDIA Quadro P600,67
+Intel(R) UHD Graphics 770,67
+NVIDIA GeForce MX130,65
+NVIDIA GeForce GTX 970M    ,64
+Radeon RX Vega,64
+NVIDIA GeForce 405,64
+AMD Radeon R5 340,64
+NVIDIA GeForce GT 630M,64
+Intel(R) Iris(TM) Pro Graphics 5200,63
+NVIDIA GeForce GTX 980,63
+NVIDIA GeForce RTX 2060 with Max-Q Design,62
+AMD Radeon HD 7500/7600 Series,62
+AMD Radeon R5 M240,62
+NVIDIA GeForce GTX 670,62
+Radeon (TM) RX 470 Series,61
+NVIDIA GeForce 7025 / NVIDIA nForce 630a,61
+Radeon (TM) RX 480 Graphics,61
+NVIDIA Quadro P1000,61
+NVIDIA GeForce GT 755M ,60
+AMD Radeon (TM) 630,60
+NVIDIA GeForce 930MX,58
+Radeon (TM) 520,57
+Intel(R) G33/G31 Express Chipset Family,56
+NVIDIA GeForce 6150SE nForce 430,56
+NVIDIA GeForce RTX 2070 with Max-Q Design,56
+AMD Radeon (TM) R5 M315,56
+NVIDIA GeForce GTX 980 Ti,54
+NVIDIA GeForce GTX 745,53
+NVIDIA GeForce GT 635M    ,53
+NVIDIA GeForce GT 740M,52
+NVIDIA GeForce GTX 860M,51
+AMD Radeon R9 270 1024SP,51
+AMD Radeon(TM) R5 M330,50
+AMD Radeon (TM) R7 370 Series,50
+NVIDIA GeForce GTX 560 Ti,50
+AMD Radeon (TM) R5 M430,49
+AMD Radeon HD 6300M Series,48
+AMD Radeon R7 M440,48
+ATI Radeon HD 4250,48
+AMD Radeon (TM) 530,47
+AMD Radeon RX 5300,47
+NVIDIA GeForce 920MX,47
+NVIDIA GeForce 930M,46
+Intel(R) Iris(TM) Graphics 6100,45
+NVIDIA Quadro P2000,45
+AMD Radeon HD 7480D,45
+Radeon (TM) RX 550,45
+ATI Radeon HD 5700 Series,45
+NVIDIA GeForce 310M,45
+ATI Radeon HD 4350,45
+Intel Haswell HD Graphics - GT1,43
+NVIDIA GeForce GTX 1650 Ti with Max-Q Design,43
+NVIDIA GeForce GT 730M,43
+NVIDIA GeForce 9600 GSO 512,42
+NVIDIA GeForce 820A,42
+AMD Radeon HD 6700 Green Edition,42
+,41
+AMD Radeon R5 M230 Series,41
+AMD Radeon RX 5600 XT,40
+AMD Radeon(TM) HD8490,40
+AMD Radeon HD 6530D,39
+Intel(R) UHD Graphics 600,39
+NVIDIA GeForce GTX 460,38
+VMware SVGA 3D,38
+Radeon RX 570,37
+AMD Radeon (TM) R7 M340,37
+NVIDIA GeForce GT 520M,37
+NVIDIA GeForce GT 650M ,37
+NVIDIA GeForce GT 820M,37
+Radeon 520,36
+ASUS EAH6770 Series,36
+AMD Radeon HD 8600M Series,36
+NVIDIA GeForce GTX 980M,36
+ASUS EAH6750 Series,36
+NVIDIA GeForce 615    ,35
+AMD Radeon R5 430,34
+AMD Radeon R5 M230,34
+NVIDIA GeForce GTX 780 ,33
+AMD Radeon HD 7670M,32
+AMD Radeon R7 M265 Series,32
+mv video hook driver2,32
+Radeon (TM) 540,32
+Intel(R) Iris(TM) Graphics 5100,31
+NVIDIA GeForce GTX 1660 Ti with Max-Q Design,31
+AMD Radeon HD 8490,31
+ATI Radeon HD 3000,31
+AMD Radeon HD 8470 Graphics,30
+AMD Radeon HD 7400 Series,30
+AMD Radeon HD 8670D,30
+AMD Radeon RX 640,29
+Intel(R) HD Graphics 615,29
+Intel(R) Iris(R) Xe MAX Graphics,29
+Mobile Intel(R) 4 Series Express Chipset Family,28
+AMD Radeon R5 M330,28
+AMD Radeon RX 6500 XT,28
+NVIDIA GeForce 710M,28
+NVIDIA GeForce GTX 2060 6GB,28
+NVIDIA GeForce RTX 3090,28
+NVIDIA Quadro K2000,27
+AMD Radeon(TM) R9 270,27
+Radeon RX 350 Series,27
+NVIDIA GeForce RTX 3060 12G,27
+AMD Radeon HD 7400M Series,27
+Intel(R) HD Graphics 515,26
+NVIDIA GeForce GT 540M ,26
+NVIDIA GeForce GT 640M,25
+Intel(R) Iris(R) Plus Graphics 655,25
+AMD Radeon HD 6550D,25
+AMD Radeon HD 8550G,25
+NVIDIA GeForce GT 550M,25
+NVIDIA GeForce 9300 GE,25
+AMD Radeon(TM) RX Vega 10 Graphics,25
+ATI Radeon HD 4200,25
+NVIDIA GeForce G100,25
+NVIDIA GeForce GTX 3060,24
+AMD Radeon(TM) Vega 8 Mobile Graphics,24
+AMD Radeon R5 220,24
+Radeon (TM) RX 550X,24
+NVIDIA GeForce 9400 GT ,24
+Intel(R) G45/G43 Express Chipset,23
+AMD Radeon R5 235,23
+AMD Radeon HD 6750,23
+NVIDIA NVS 4200M   ,23
+AMD Radeon HD 6900 Series,23
+AMD Radeon HD 6450 Graphics,23
+NVIDIA Quadro P2200,23
+Intel(R) Iris(R) Plus Graphics 640,22
+AMD Radeon (TM) R5 M320,22
+AMD Radeon(TM) R7 360 Series,22
+AMD Radeon RX 6600M,22
+NVIDIA GeForce 800M,22
+AMD Radeon R7 M270,22
+ATI Radeon HD 4600 Series  ,21
+AMD Radeon RX 6800 XT,21
+NVIDIA GeForce GT 625 (OEM),21
+AMD Radeon (TM) R9 200 Series~370,21
+AMD Radeon HD 6400M Series,21
+AMD Radeon 610 Series,21
+AMD Radeon HD 6770M,20
+AMD Radeon(TM) R5 240,20
+AMD Radeon HD 6970M,20
+ATI Radeon HD 3400 Series ,20
+NVIDIA Quadro RTX 4000,20
+AMD Radeon HD 7450A Graphics,19
+Citrix Indirect Display Adapter,19
+AMD Radeon(TM) RX460~Radeon(TM) RX 560 Graphics,19
+AMD Radeon HD 7450,19
+AMD Radeon HD 7470M,19
+NVIDIA GeForce G210M   ,19
+NVIDIA GeForce GTX 2070,19
+NVIDIA Quadro P400,18
+AMD Radeon HD 8600/8700M,18
+Intel(R) G41 Express Chipset (Microsoft Corporation - WDDM 1.1),18
+AMD Radeon(TM) R6 Graphics,18
+NVIDIA GeForce 505 ,17
+Intel(R) HD Graphics 5000,17
+AMD Radeon 6600M and 6700M Series,17
+NVIDIA GeForce GTX 780 Ti,17
+AMD Radeon HD 7650M        ,17
+Mengyi video mirror driver,17
+ATI Radeon HD 3200 Graphics,17
+AMD Radeon (TM) R7 350,17
+Radeon(TM) RX 560 Graphics,16
+NVIDIA GeForce GTX 680,16
+AMD Radeon (TM) 620,16
+AMD Radeon (TM) RX 570X,16
+NVIDIA GeForec RTX 2060,16
+NVIDIA GeForce G 103M,16
+ATI Radeon HD 4800 Series,16
+AMD Radeon HD 6850,16
+NVIDIA GeForce GTX 765M      ,16
+NVIDIA Quadro 600,16
+NVIDIA GeForce 8600 GT ,16
+ATI Mobility Radeon HD 5400 Series,16
+NVIDIA GeForce 510 ,15
+AMD Radeon (TM) R9 Fury Series,15
+NVIDIA GeForce 8500 GT,15
+ATI Radeon HD 5600/5700,15
+AMD Radeon(TM) R4 Graphics,15
+NVIDIA GeForce GTX TITAN,15
+NVIDIA Quadro K4200,15
+AMD Radeon HD 5700 Series,15
+AMD Radeon RX 6900 XT,15
+Intel(R) Iris(R) Plus Graphics 645,15
+NVIDIA GeForce GPU,15
+Honor Virtual Display Device,15
+AMD Radeon HD 6410D,15
+AMD Radeon HD 8500M Series,15
+NVIDIA GeForce GTX 1650 with Max-Q Design,15
+LuminonCore IDDCX Adapter,15
+NVIDIA GeForce GTX 460 v2,14
+AMD Radeon (TM) 625,14
+Radeon (TM) R5 M430,14
+NVIDIA GeForce 315 ,14
+NVIDIA GeForce G 105M  ,14
+AMD Radeon HD 6870,14
+ATI Radeon HD 5570,14
+Parallels Display Adapter (WDDM),13
+NVIDIA Quadro 2000,13
+AMD Radeon HD 7500M/7600M Series,13
+AMD Radeon(TM) R9 M375,13
+NVIDIA Quadro K420,13
+AMD Radeon R5 M200 / HD 8500M Series,13
+NVIDIA GeForce 205,13
+Intel(R) Q45/Q43 Express Chipset,13
+Intel(R) UHD Graphics 605,13
+AMD Radeon HD 8570M,13
+Mobile Intel(R) HD Graphics,12
+NVIDIA GeForce 9500 GT (Microsoft Corporation - WDDM v1.1),12
+NVIDIA GeForce G102M   ,12
+NVIDIA GeForce GT 530,12
+NVIDIA GeForce GTX 770M,12
+NVIDIA GeForce GT 635,12
+NVIDIA GeForce GT 620M,12
+NVIDIA GeForce RTX 2080 with Max-Q Design,12
+ASUS R9 270X Series,12
+NVIDIA GeForce 830M,12
+Radeon RX 550X,12
+ASUS R7 240 Series,11
+ATI Radeon HD 5770,11
+ATI Mobility Radeon HD 545v ,11
+ATI Mobility Radeon HD 5400,11
+"@oem154.inf,%icflhalogt2%牋;Intel(R) UHD Graphics 630牋",11
+NVIDIA Quadro K2200,11
+AMD RADEON HD 6350,11
+"@oem5.inf,%icflhalogt2%牋;Intel(R) UHD Graphics 630牋",11
+NVIDIA GeForce GTX 460 SE,11
+Radeon 540X Series,11
+Intel(R) HD Graphics P4600/P4700,11
+Intel(R) Iris(R) Graphics 540,11
+AMD Radeon Pro 5300M,11
+AMD Radeon R5 310,11
+Radeon Pro 560,11
+NVIDIA GeForce RTX 2060 6G ,11
+AMD Radeon HD 8650G + HD 8600M Dual Graphics,11
+AMD RADEON HD8450,11
+AMD Radeon HD 6500M/5600/5700 Series,11
+NVIDIA GeForce 7100 GS,11
+NVIDIA GeForce 2060,11
+NVIDIA NVS 300,11
+NVIDIA Quadro FX 3800,11
+NVIDIA Quadro K1000M,11
+NVIDIA GeForce GTX 870M,10
+ATI Radeon HD 5550 Series,10
+3D 视频控制器,10
+NVIDIA Quadro 4000M,10
+ATI Radeon HD 2600 PRO,10
+ATI Radeon HD 4290,10
+Chell 1.8b for Mobile Intel(R) 965,10
+NVIDIA GeForce GTX 760 (192-bit),10
+NVIDIA GeForce 6100 nForce 405,10
+ATI FirePro V (FireGL V) Graphics Adapter,10
+AMD FirePro W5100,10
+AMD Radeon HD 5570,10
+AMD Radeon HD 7540D,10
+NVIDIA GeForce GTX 1060 6G,10
+NVIDIA GeForce GTX 3060Ti,10
+磐镭 GTX 1080 8GB,10
+Radeon Pro 580,10
+AMD Radeon (TM) R9 M360,10
+AMD Radeon HD 6600A Series,10
+NVIDIA GeForce GTS 250 (Microsoft Corporation - WDDM v1.1),9
+AMD Radeon (TM) R7 340,9
+NVIDIA GeForce GTX 775M,9
+NVIDIA Quadro M5000,9
+Radeon Pro 555,9
+Radeon Pro 560X,9
+ATI Radeon X1200 Series,9
+AMD Radeon (TM) RX 640,9
+NVIDIA Quadro T2000,9
+AMD Radeon R5 M435,9
+Intel(R) Iris(R) Pro Graphics 580,9
+NVIDIA GeForce 410M,9
+NVIDIA GeForce 9300M GS (Microsoft Corporation - WDDM v1.1),9
+NVIDIA Quadro P4000,9
+ATI Radeon HD 4250 Series,9
+AMD Radeon R7 340,9
+AMD Mobility Radeon HD 5000 Series,9
+NVIDIA GT 220,9
+NVIDIA Quadro K2000M,9
+AMD Radeon HD 7660G,9
+AMD Radeon HD 7370M Graphics,8
+NVIDIA Quadro M1000M,8
+Radeon(TM) 520,8
+NVIDIA GeForce GTX 660M,8
+NVIDIA Quadro K3100M,8
+NVIDIA Quadro K5200,8
+ASUS R7 265 Series,8
+Intel(R) Iris(R) Plus Graphics 650,8
+AMD Radeon HD 7550M/7650M Graphics,8
+NVIDIA Quadro FX 4800,8
+Radeon X1650 Series ,8
+Intel(R) Iris(TM) Pro Graphics P6300,8
+NVIDIA GeForce RTX3080TI 12G,8
+NVIDIA Quadro 3000M,8
+AMD Radeon R9 200 / HD 7900 Series,8
+NVIDIA GeForce GT 625M,8
+ASUS HD7470 Series,8
+AMD Radeon HD 7900 Series,8
+Radeon (TM) 535,8
+Radeon (TM) Pro WX 4100,8
+NVIDIA GeForce GT 220M,8
+NVIDIA GeForce GT 240M ,8
+AMD Radeon HD 4350,8
+AMD Radeon HD6450 / HD5450,8
+ASUS Radeon RX 580 2048SP,8
+AMD Radeon(TM) Vega 6 Graphics,8
+AMD Radeon(TM) HD 6480G      ,8
+NVIDIA Quadro FX 580,8
+AMD Radeon(TM) Vega 2 Graphics,7
+AMD Radeon HD 8470D,7
+AMD Radeon HD 8790M,7
+AMD Radeon HD 8950,7
+AMD Radeon HD 6350 Graphics,7
+ATI Radeon HD 4350 Series,7
+NVIDIA N10M-GS,7
+AMD Radeon (TM) R9 390 Series,7
+AMD RadeonT R5 430,7
+NVIDIA GeForce 930A,7
+NVIDIA GeForce 8400  ,7
+NVIDIA GeForce RTX 2070 Super with Max-Q Design,7
+AMD Radeon HD 6750M,7
+AMD Radeon R7 M460,7
+NVIDIA Quadro 2000M,7
+Microsoft Hyper-V 视频,7
+Intel(R) Iris(TM) Pro Graphics 6200,7
+Mobile Intel(R) 45 Express Chipset Family (Microsoft Corporation - WDDM 1.1),7
+NVIDIA GeForce RTX 1060,7
+NVIDIA GeForce 9600 GT (Microsoft Corporation - WDDM v1.1),7
+ATI Radeon HD 2400,7
+AMD Radeon R5 M335,7
+NVIDIA T600,7
+NVIDIA GeForce RTX 2080 Super with Max-Q Design,7
+AMD Radeon(TM) R7 M360,7
+NVIDIA G98             ,7
+ATI Radeon HD 4700 Series  ,7
+NVIDIA GeForce 8600M GT  ,6
+NVIDIA GeForce 9500M GS,6
+NVIDIA GeForec RTX 3070Ti,6
+Radeon 535 Series,6
+AMD Radeon HD 5800 Series,6
+Intel(R) HD Graphics 500,6
+NVIDIA GeForce 9200M GS,6
+AMD Radeon. HD 6730M,6
+AMD Radeon Pro 455,6
+AMD Radeon R7 A360,6
+NVIDIA GeForce RTX 2060S,6
+Microsoft Basic Display Adapter,6
+AMD Radeon HD 8570D + HD 8470 Dual Graphics,6
+AMD Radeon HD 8750M,6
+AMD 760G (Microsoft Corporation WDDM 1.1) ,6
+AMD Radeon HD 6450A ,6
+AMD Radeon R5 230,6
+AMD Radeon R7 200 Series~HD 7800 Series,6
+ATI Radeon HD 3450     ,6
+NVIDIA GeForce GT 625,6
+NVIDIA Quadro 1000M,6
+NVIDIA G98-GL,6
+AMD Radeon(TM) R2 Graphics,6
+ATI Radeon HD 5750,6
+NVIDIA GeForce GT 420,6
+NVIDIA GeForce GT 525M,6
+ASUS Radeon RX 570 Series,5
+AMD Radeon HD 7570 Graphics,5
+AMD Radeon HD 7500 Series,5
+AMD Radeon (TM) R5 M335,5
+AMD Radeon Pro WX 2100 Graphics,5
+AMD Radeon HD 8570A Graphics,5
+AMD Radeon R7 Series,5
+Radeon Pro 570,5
+AMD Radeon R9 M380,5
+AMD Radeon HD 7470,5
+Intel(R) HD Graphics 2500,5
+Intel(R) Iris(TM) Graphics 550,5
+NVIDIA GeForce GT 640M LE,5
+AMD Radeon HD 5600/5700,5
+AMD Radeon HD 7300 Series,5
+AMD Radeon HD 7370M,5
+NVIDIA NVS 310,5
+Intel(R) Iris(TM) Graphics 540,5
+NVIDIA GeForce 9400       ,5
+AMD Radeon HD 8550G + 8570M Dual Graphics,5
+NVIDIA GeForce RTX 3060 12GB,5
+Radeon(TM) Vega 8 Graphics,5
+AMD Radeon E6760,5
+AMD Radeon HD 6470M,5
+Intel(R) HD Graphics P630,5
+NVIDIA GeForce RTX 2060 8G,5
+NVIDIA Quadro FX 1800,5
+NVIDIA GeForce 920A,5
+Matrox G200eW (Nuvoton) - English,5
+Intel Haswell HD Graphics - GT2,5
+NVIDIA GeForce RTX 3080 Laptop GPU,5
+NVIDIA NVS 5400M   ,5
+NVIDIA GeForce GTX TITAN X,5
+NVIDIA GeForce GTX 3070,5
+ASUS Radeon RX 550 Series,5
+AMD Radeon(TM) R7 360 Series Graphics,5
+AMD Radeon(TM) R5 M430,4
+AMD Radeon RX 640 Series,4
+AMD Radeon Pro 5300,4
+extension Graphics Adapter,4
+MS Idd Device,4
+NVIDIA GeForce GTX 1080Ti,4
+Easy&Light Display HUB Virtual Display,4
+NVIDIA GeForce 315M ,4
+NVIDIA GeForce 9800M GS,4
+ASUS HD7770 Series,4
+ATI Mobility Radeon HD 4500 Series (Microsoft Corporation WDDM 1.1) ,4
+ATI Radeon HD 3800 Series,4
+NVIDIA GeForce 7300 GS,4
+NVIDIA Quadro M1200,4
+NVIDIA GeForce RTX 2070S,4
+NVIDIA GeForce RTX 1660 Ti,4
+AMD Radeon(TM) 535,4
+AMD FirePro W4100,4
+AMD Radeon R7 200 Series~HD 7700 Series,4
+AMD Radeon HD 8470A Graphics,4
+Radeon Pro WX 5100,4
+AMD Radeon HD 6630M,4
+AMD Radeon HD 8670M,4
+NVIDIA NVS 3100M,4
+NVIDIA GeForce RTX3060,4
+AMD Radeon (TM) R9 360~RX 455,4
+AMD Radeon HD 7640G + 6400M Dual Graphics,4
+ATI Mobility Radeon HD 4500 Series   ,4
+ATI Radeon HD 5600 Series,4
+Mobile 5th Generation Intel(R) Core(TM) Integrated Graphics - 1626,4
+Intel(R) Q35 Express Chipset Family,4
+AMD Radeon (TM) R7 M360,4
+NVIDIA GeForce RTX 1060 6G,4
+Radeon (TM) HD 6750M     ,4
+NVIDIA GeForce GTX 580,4
+AMD Radeon R7 M265,4
+AMD RADEON R9 M395X,3
+AMD Radeon HD 5500 Series,3
+AMD Radeon HD 7690M,3
+NVIDIA  GeForce RTX 3060,3
+NVIDIA Quadro T2000 with Max-Q Design,3
+Radeon (TM) R7 M445,3
+Radeon RX 5500M~AMD Radeon RX 5500,3
+AMD Radeon R7 M260,3
+NVIDIA D10M2-20,3
+NVIDIA GeForce GTX 2070 SUPER,3
+NVIDIA GeForce GTX 1050 with Max-Q Design,3
+AMD Radeon HD 8330,3
+NVIDIA GeForce GTX 1660 6G,3
+Radeon(TM) RX 470 Graphics,3
+NVIDIA Quadro M4000,3
+AMD Radeon HD 6770,3
+AMD Radeon R7 Series / HD 9000 Series,3
+NVIDIA GeForce 320M    ,3
+NVIDIA GeForce GTX 2080s,3
+Radeon(TM) 540 Graphics,3
+spacedesk Graphics Adapter,3
+ASUS R7 250X Series,3
+ATI Mobility Radeon HD 5430,3
+AMD Radeon R5 Graphics,3
+AMD FirePro V3900 (ATI FireGL),3
+AMD Firepro W4190M,3
+AMD Radeon (TM) R9 255,3
+NVIDIA Quadro K1100M,3
+ASUS R9 380 Series,3
+AMD Radeon (TM) R9 360,3
+NVIDIA Quadro K6000,3
+NVIDIA MCP61  ,2
+NVIDIA GeForce RTX 1070 8G,2
+AMD Radeon HD 7640G,2
+AMD Radeon (TM) RX 570,2
+AMD Radeon R7 Graphics + HD 7700 Dual Graphics,2
+ATI Radeon 3000 Graphics (Engineering Sample - WDDM v1.1),2
+NVIDIA GeForce GTX 780M        ,2
+NVIDIA GeForce RTX 1070,2
+AMD Radeon (TM) R9 M375,2
+AMD Radeon HD 8350,2
+AMD Radeon HD 6370M,2
+AMD Radeon RX590 GME~RX 580 2048SP,2
+AMD Radeon(TM) Vega 3 Mobile Graphics,2
+ASUS HD 7350,2
+NVIDIA GeForce GTX 1080 with Max-Q Design,2
+NVIDIA GeForce GTX 2060S 6GB,2
+Intel(R) UHD Graphics 615,2
+Display,2
+AMD Radeon(TM) RX540~Radeon RX 550,2
+AMD Radeon HD 8550A Graphics,2
+NVIDIA GeForce GTX 1070 with Max-Q Design,2
+NVIDIA GeForce GTX 750Ti,2
+NVIDIA GeForce RTX 1060 6GB,2
+NVIDIA GeForce 800A    ,2
+NVIDIA Quadro K4000 ,2
+RTX 3060i,2
+NVIDIA TITAN X (Pascal),2
+AMD Radeon HD 7450M,2
+AMD Radeon HD 8200 / R3 Series,2
+Radeon (TM) HD 8670M,2
+Radeon RX 550,2
+NVIDIA Quadro 4000,2
+NVIDIA NVS 5200M,2
+NVIDIA GeForce GTX 760M,2
+AMD Radeon HD 7600M Series,2
+Intel(R) HD Graphics P530,2
+Radeon (TM) R5 M420,2
+AMD Radeon R5 M315,2
+AMD Radeon R7 450,2
+AMD Radeon Pro WX 2100,2
+Intel(R) Q45/Q43 Express Chipset (Microsoft Corporation - WDDM 1.1),2
+NVIDIA GeForce GT 555M ,2
+NVIDIA GeForce 8400M GS  ,2
+Radeon RX 560X Series,2
+Radeon RX480,2
+Radeon RX580 2048SP,2
+NVIDIA Quadro K2100M,2
+NVIDIA Quadro K4100M,2
+NVIDIA GRID P4-4Q,2
+NVIDIA GeForce GTX 1660S 6GB,2
+ATI Mobility Radeon HD 5000 Series,2
+NVIDIA GeForce 910M ,2
+NVIDIA GeForce 9400 GT (Microsoft Corporation - WDDM v1.1),2
+Mobile Intel(R) 965 Express Chipset Family (Microsoft Corporation - WDDM 1.1),1
+ATI Radeon HD 2400 XT,1
+ATI Radeon HD 4800 Series  (Microsoft Corporation WDDM 1.1) ,1
+ATI Radeon HD 5450 Series,1
+AMD Radeon HD 7660G + HD 7500M/7600M Dual Graphics,1
+AMD Radeon HD 8570,1
+AMD Radeon HD 8470,1
+AMD Radeon R9 370 1024SP,1
+AMD RADEON R9 M290X,1
+AMD Radeon R9 M370X,1
+AMD Radeon HD 8650G + HD 8750M Dual Graphics,1
+NVIDIA GeForce RTX 2080Ti,1
+NVIDIA Quadro FX 2700M,1
+NVIDIA GeForce RTX3070 12G,1
+ATI Mobility Radeon HD 5730,1
+AMD Radeon R9 200 Series~(TM) R9 380 Series,1
+ATI Mobility Radeon HD 4300 Series (Microsoft Corporation WDDM 1.1) ,1
+AMD Radeon(TM) R5 340X,1
+AMD Radeon(TM) R5 M320,1
+AMD Radeon (TM) R9 370X,1
+Radeon (TM) HD 7450M,1
+NVIDIA Quadro K600,1
+NVIDIA GeForce RTX2060 6G,1
+Microsoft 基本显示适配器(低分辨率),1
+NVIDIA GeForce 840A,1
+NVIDIA GeForce GTX 260,1
+AMD Radeon HD 7600A Series,1
+AMD Radeon Pro 5600M,1
+3,1
+AMD Radeon HD 7400A Series,1
+Intel(R) 82945G Express Chipset Family,1
+ATI  Radeon HD 5000 Series,1
+ASPEED Graphics Family,1
+NVIDIA GeForce GTX 4090 Ti 64GB,1
+NVIDIA GeForce GT 1010,1
+NVIDIA GeForce GT 320M ,1
+NVIDIA GeForce 8100 / nForce 720a,1
+NVIDIA GeForce 810M,1
+NVIDIA GeForce 6150SE nForce 430 (Microsoft Corporation - WDDM),1
+AMD Radeon HD 8730M,1
+AMD Radeon R9 M275X,1
+ASUS EAH6570 Series,1
+ASUS R7 250 Series,1
+ASUS R9 270 Series,1
+ATI Mobility Radeon X1350,1
+AMD Radeon HD 8600 Series,1
+AMD Radeon HD 7520G,1
+NVIDIA Quadro FX 1600M,1
+NVIDIA Quadro 400,1
+Radeon X1300/X1550 Series Secondary   ,1
+Radeon 530 Series,1
+AMD Radeon R7 200 Series~Radeon(TM) R7 360 Series Graphics,1
+AMD Radeon (TM)  R9 M385X,1
+AMD Radeon (TM) R6 M435DX,1
+AMD Radeon (TM) R9 M375X,1
+AMD Radeon(TM) Vega 10 Mobile Graphics,1
+ATI Radeon HD 5800 Series,1
+DisplayLink USB Device,1
+Intel(R) Graphics Media Accelerator HD,1
+Radeon Pro 570X,1
+NVIDIA Quadro VX 200,1
+NVIDIA GeForce RTX 3070 SUPER,1
+NVIDIA GRID P40-4Q,1
+NVIDIA GeForce 7300 LE,1
+Microsoft 基本呈现驱动程序,1
+NVIDIA GeForce GT 425M,1
+NVIDIA GeForce RTX 1080 8G,1
+NVIDIA GeForce RTX 1050 Ti,1
+NVIDIA GeForce GTX 3060 6GB,1
+AMD Radeon HD 6625M Graphics,1
+AMD Radeon R7 M360,1
+AMD Radeon R9 260,1
+AMD Radeon RX 6800,1
+ASUS EAH 6790 Series,1
+NVIDIA GeForce RTX 1060 3G,1
+NVIDIA GeForce RTX 2060 Ti,1
+NVIDIA GeForce 8600 GTS,1
+NVIDIA GeForce 9300 GS,1
+NVIDIA GeForce FX 5200,1
+NVIDIA GeForce GT 420M   ,1
+NVIDIA GeForce GTX 2080,1
+NVIDIA GeForce RTX 3060TI,1
+Intel(R) HD Graphics P3000,1
+NVIDIA GeForce 8200,1
+AMD Radeon(TM) R5 235X,1
+ATI Radeon HD 3600 Series,1
+ATI Mobility Radeon HD 530v  ,1
+ASUS HD7950 Series,1
+AMD Radeon HD 8650G + 8570M Dual Graphics,1
+AMD Radeon (TM) RX 560X~Radeon(TM) RX 560 Graphics,1
+NVIDIA GeForec RTX 2070,1
+视频控制器(VGA 兼容),1
+Matrox G200eR,1
+Mobile Intel(R) 965 Express Chipset Family,1
+NVIDIA GeForce GTX 1050 Ti with Max-Q Design,1
+NVIDIA GeForce GT 325M,1
+AMD Radeon R7 M340,1
+AMD Radeon HD 7520G + 7670M Dual Graphics,1
+AMD Radeon (TM) R9 370X~370 Series,1
+NVIDIA GeForce RTX 1650S,1
+Standard VGA Graphics Adapter,1
