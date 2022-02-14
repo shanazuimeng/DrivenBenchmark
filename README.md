@@ -1,5 +1,10 @@
 # HardwareBenchmark
 
+
+## version 0.0.4 2022年2月14日 下午
+### Added：
+- 添加BANK类型
+
 ## version 0.0.4 2022年2月14日
 ### Added：
 - 调增测试脚本，输出类型匹配率和数量匹配率

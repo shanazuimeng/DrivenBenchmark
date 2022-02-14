@@ -55,6 +55,10 @@ const REPLACE = [
     { s: "Intel HD", n: "Intel HD graphics" }
 ]
 
+const BANK = [
+    "Intel 2.80GHz"
+]
+
 
 function DownloadBenchmark(url, cache, option) {
     return new Promise((resolve, reject) => {
@@ -79,6 +83,14 @@ function DownloadBenchmark(url, cache, option) {
 
             for (let i = 0; i < mark.length; i++) {
                 let origin = mark[i].parent.children[index].children[0].data;
+                let isBank = false;
+                for (let idx in BANK) {
+                    if (BANK[idx] == origin)
+                        isBank = true
+                }
+                if (isBank)
+                    continue;
+
 
                 for (let idx in REPLACE) {
                     origin = origin.replace(REPLACE[idx].s, REPLACE[idx].n);
